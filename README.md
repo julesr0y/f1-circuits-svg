@@ -41,83 +41,83 @@ If needed, you can also customise width and height (default 500px x 500px) by mo
 
 ### 🛣️ Included circuits (77/77) :
 
-- Aintree Motor Racing Circuit
-- Algarve International Circuit
-- Anderstorp Raceway
-- Autódromo do Estoril
-- Autódromo Hermanos Rodríguez
-- Autódromo Internacional Nelson Piquet
-- Autódromo Internazionale Enzo e Dino Ferrari
-- Autódromo José Carlos Pace
-- Autódromo Juan y Oscar Gálvez
-- Autodromo Internazionale del Mugello
-- Autodromo Nazionale Monza
-- AVUS
-- Bugatti Circuit
-- Baku City Circuit
-- Bahrain International Circuit
-- Brands Hatch
-- Buddh International Circuit
-- Caesars Palace
-- Canadian Tire Motorsport Park
-- Charade Circuit
-- Circuit Bremgarten
-- Circuit Bugatti
-- Circuit de Barcelona-Catalunya
-- Circuit de Jerez
-- Circuit de Monaco
-- Circuit de Nevers Magny-Cours
-- Circuit de Spa-Francorchamps
-- Circuit de la Boavista
-- Circuit Gilles Villeneuve
-- Circuit Mont-Tremblant
-- Circuit of the Americas
-- Circuit Paul Ricard
-- Circuit Zolder
-- Circuito da Boavista
-- Circuito de Jarama
-- Circuito de Montjuïc
-- Circuito del Jarama
-- Circuito Internacional de Pedralbes
-- Circuito Internacional de Pescara
-- Circuito Internacional de Valencia
-- Circuito Internacional de Yeongam
-- Circuito Internacional de Zandvoort
-- Circuito Internacional de Zeltweg
-- Circuit Park Zandvoort
-- Dijon-Prenois
-- Donington Park
-- East London Grand Prix Circuit
-- Fair Park
-- Fuji Speedway
-- Hockenheimring
-- Hungaroring
-- Indianapolis Motor Speedway
-- Istanbul Park
-- Jeddah Corniche Circuit
-- Kyalami Racing Circuit
-- Las Vegas Street Circuit
-- Long Beach
-- Losail International Circuit
-- Marina Bay Street Circuit
-- Melbourne Grand Prix Circuit
-- Nivelles-Baulers
-- Nürburgring
-- Okayama International Circuit
-- Pedralbes Circuit
-- Prince George Circuit
-- Reims-Gueux
-- Red Bull Ring
-- Riverside International Raceway
-- Rouen-Les-Essarts
-- Sepang International Circuit
-- Sebring International Raceway
-- Shanghai International Circuit
-- Silverstone Circuit
-- Sochi Autodrom
-- Suzuka Circuit
-- Watkins Glen International
-- Yas Marina Circuit
+- Adelaide Street Circuit (Adelaide)
+- Ain-Diab Circuit (Casablanca)
+- Aintree Motor Racing Circuit (Aintree)
+- Algarve International Circuit (Portimão)
+- Anderstorp Raceway (Anderstorp)
+- Autodromo Internazionale Enzo e Dino Ferrari (Imola)
+- Autodromo Internazionale del Mugello (Scarperia e San Piero)
+- Autodromo Nazionale Monza (Monza)
+- Autódromo Hermanos Rodríguez (Mexico City)
+- Autódromo Internacional Nelson Piquet (Rio de Janeiro)
+- Autódromo José Carlos Pace (São Paulo)
+- Autódromo Juan y Oscar Gálvez (Buenos Aires)
+- Autódromo do Estoril (Estoril)
+- Automobil-Verkehrs- und Übungs-Straße (Berlin)
+- Bahrain International Circuit (Sakhir)
+- Baku City Circuit (Baku)
+- Brands Hatch (Fawkham)
+- Buddh International Circuit (Greater Noida)
+- Bugatti Circuit (Le Mans)
+- Caesars Palace (Las Vegas)
+- Canadian Tire Motorsport Park (Bowmanville)
+- Charade Circuit (Clermont-Ferrand)
+- Circuit Bremgarten (Bern)
+- Circuit Gilles Villeneuve (Montreal)
+- Circuit Mont-Tremblant (Mont-Tremblant)
+- Circuit Park Zandvoort (Zandvoort)
+- Circuit Paul Ricard (Le Castellet)
+- Circuit Zolder (Heusden-Zolder)
+- Circuit de Barcelona-Catalunya (Montmeló)
+- Circuit de Monaco (Monte Carlo)
+- Circuit de Nevers Magny-Cours (Nevers)
+- Circuit de Spa-Francorchamps (Spa)
+- Circuit of the Americas (Austin)
+- Circuito da Boavista (Porto)
+- Circuito de Jerez (Jerez de la Frontera)
+- Circuito de Monsanto (Lisbon)
+- Circuito de Montjuïc (Barcelona)
+- Circuito del Jarama (Madrid)
+- Detroit Street Circuit (Detroit)
+- Dijon-Prenois (Dijon)
+- Donington Park (Leicestershire)
+- Fair Park (Dallas)
+- Fuji Speedway (Oyama)
+- Hockenheimring (Hockenheim)
+- Hungaroring (Budapest)
+- Indianapolis Motor Speedway (Indianapolis)
+- Istanbul Park (Istanbul)
+- Jeddah Corniche Circuit (Jeddah)
+- Korea International Circuit (Yeongam)
+- Kyalami Racing Circuit (Midrand)
+- Las Vegas Street Circuit (Las Vegas)
+- Long Beach (Long Beach)
+- Losail International Circuit (Lusail)
+- Marina Bay Street Circuit (Singapore)
+- Melbourne Grand Prix Circuit (Melbourne)
+- Miami International Autodrome (Miami Gardens)
+- Nivelles-Baulers (Nivelles)
+- Nürburgring (Nürburg)
+- Okayama International Circuit (Aida)
+- Pedralbes Circuit (Barcelona)
+- Pescara Circuit (Pescara)
+- Phoenix Street Circuit (Phoenix)
+- Prince George Circuit (East London)
+- Red Bull Ring (Spielberg)
+- Reims-Gueux (Reims)
+- Riverside International Raceway (Riverside)
+- Rouen-Les-Essarts (Rouen)
+- Sebring International Raceway (Sebring)
+- Sepang International Circuit (Sepang)
+- Shanghai International Circuit (Shanghai)
+- Silverstone Circuit (Silverstone)
+- Sochi Autodrom (Sochi)
+- Suzuka Circuit (Suzuka)
+- Valencia Street Circuit (Valencia)
+- Watkins Glen International (Watkins Glen)
+- Yas Marina Circuit (Abu Dhabi)
+- Zeltweg (Zeltweg)
 
 *Last review: 08/2024*
 
