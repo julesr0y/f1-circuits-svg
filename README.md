@@ -13,19 +13,19 @@ All files are using [Scalable Vector Graphics (SVG)](https://simple.wikipedia.or
 You can find 4 styles of layouts in this repository :
 - White outline :
   
-  <img src="white-outline/monza.svg" alt="Monza" width="150" height="150">
+  <img src="readme/monza.svg" alt="Monza" width="150" height="150">
   
 - White :
   
-  <img src="white/estoril.svg" alt="Estoril" width="150" height="150">
+  <img src="readme/estoril.svg" alt="Estoril" width="150" height="150">
   
 - Black outline :
   
-  <img src="black-outline/spa-francorchamps.svg" alt="Spa" width="150" height="150">
+  <img src="readme/spa-francorchamps.svg" alt="Spa" width="150" height="150">
   
 - Black :
   
-  <img src="black/kyalami.svg" alt="Kyalami" width="150" height="150">
+  <img src="readme/kyalami.svg" alt="Kyalami" width="150" height="150">
 
 ### 🖌️ Customisation :
 
