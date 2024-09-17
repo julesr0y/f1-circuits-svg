@@ -10,7 +10,7 @@ All files are using [Scalable Vector Graphics (SVG)](https://simple.wikipedia.or
 
 ### 🎨 Style :
 
-You can find 4 styles of layouts in this repository :
+You can find 4 styles of layouts in this repository (backgrounds are normally transparent, but here they are black or white for better visibility) :
 - White outline :
   
   <img src="readme/monza.svg" alt="Monza" width="150" height="150">
