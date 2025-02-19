@@ -2,7 +2,7 @@
 
 This repository contains the layouts of all the circuits that have hosted at least one world championship Grand Prix in Formula 1 history.
 
-[Pitlane Insider](https://pitlaneinsider.fr/) uses this repository to display circuit layouts.
+[PitLane Insider](https://pitlaneinsider.fr/) uses this repository to display circuit layouts.
 
 ### 💽 Format :
 
@@ -119,7 +119,12 @@ If needed, you can also customise width and height (default 500px x 500px) by mo
 - Yas Marina Circuit (Abu Dhabi)
 - Zeltweg (Zeltweg)
 
-*Last review: 08/2024*
+### 👀 Soon (during 2025) :
+
+- Add all evolutions of circuits layout (by year)
+- Add circuit coordinates
+
+*Last update: 02/2025*
 
 ```
 ________ _______ __  __       _________        ______            
