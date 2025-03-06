@@ -13,33 +13,33 @@ All files are using [Scalable Vector Graphics (SVG)](https://simple.wikipedia.or
 You can find 4 styles of layouts in this repository (backgrounds are normally transparent, but here they are black or white for better visibility) :
 - White outline :
   
-  <img src="readme/monza.svg" alt="Monza" width="150" height="150">
+  <img src="readme/monza-2.svg" alt="Monza" width="150" height="150">
   
 - White :
   
-  <img src="readme/estoril.svg" alt="Estoril" width="150" height="150">
+  <img src="readme/estoril-2.svg" alt="Estoril" width="150" height="150">
   
 - Black outline :
   
-  <img src="readme/spa-francorchamps.svg" alt="Spa" width="150" height="150">
+  <img src="readme/spa-francorchamps-3.svg" alt="Spa" width="150" height="150">
   
 - Black :
   
-  <img src="readme/kyalami.svg" alt="Kyalami" width="150" height="150">
+  <img src="readme/kyalami-2.svg" alt="Kyalami" width="150" height="150">
 
 ### 🖌️ Customisation :
 
 By default, stroke width is set to 20px for outline, and 5px for inside outline. You can easily customize these files for your own use by modifying `stroke` and `stroke-width` values in the style attribute :
 
 ```svg
-<svg xml:space="preserve" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
-  <path style="fill:none;stroke:custom_color;stroke-width:custom_width;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round" d="M363.613 403.265c-71.774.087-143.644.586..."/>
+<svg width="500" height="500" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill: none; stroke: custom_color; stroke-width: custom_width; stroke-linejoin: round; stroke-dasharray: none; stroke-opacity: 1;" d="M223.097 46.593c15.65-1.332 25.903-1.868..." />
 </svg>
 ```
 
 If needed, you can also customise width and height (default 500px x 500px) by modifying `width` and `height` attributes.
 
-### 🛣️ Included circuits (77/77) :
+### 🛣️ Included circuits (77) :
 
 - Adelaide Street Circuit (Adelaide)
 - Ain-Diab Circuit (Casablanca)
@@ -124,7 +124,7 @@ If needed, you can also customise width and height (default 500px x 500px) by mo
 - Add all evolutions of circuits layout (by year)
 - Add circuit coordinates
 
-*Last update: 02/2025*
+*Last update: 03/2025*
 
 ```
 ________ _______ __  __       _________        ______            

@@ -1,0 +1,1478 @@
+[
+    {
+        "id": "adelaide",
+        "name": "Adelaide",
+        "fullName": "Adelaide Street Circuit",
+        "type": "STREET",
+        "placeName": "Adelaide",
+        "countryId": "australia",
+        "totalRacesHeld": 11,
+        "layouts": [
+            {
+                "layoutId": "adelaide-1",
+                "seasons": "1985-1995"
+            }
+        ]
+    },
+    {
+        "id": "aida",
+        "name": "Aida",
+        "fullName": "Okayama International Circuit",
+        "type": "RACE",
+        "placeName": "Aida",
+        "countryId": "japan",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "aida-1",
+                "seasons": "1994-1995"
+            }
+        ]
+    },
+    {
+        "id": "ain-diab",
+        "name": "Ain-Diab",
+        "fullName": "Ain-Diab Circuit",
+        "type": "ROAD",
+        "placeName": "Casablanca",
+        "countryId": "morocco",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "ain-diab-1",
+                "seasons": "1958"
+            }
+        ]
+    },
+    {
+        "id": "aintree",
+        "name": "Aintree",
+        "fullName": "Aintree Motor Racing Circuit",
+        "type": "ROAD",
+        "placeName": "Aintree",
+        "countryId": "united-kingdom",
+        "totalRacesHeld": 5,
+        "layouts": [
+            {
+                "layoutId": "aintree-1",
+                "seasons": "1995,1957,1959,1961-1962"
+            }
+        ]
+    },
+    {
+        "id": "anderstorp",
+        "name": "Anderstorp Raceway",
+        "fullName": "Anderstorp Raceway",
+        "type": "RACE",
+        "placeName": "Anderstorp",
+        "countryId": "sweden",
+        "totalRacesHeld": 6,
+        "layouts": [
+            {
+                "layoutId": "anderstorp-1",
+                "seasons": "1973-1978"
+            }
+        ]
+    },
+    {
+        "id": "austin",
+        "name": "Americas",
+        "fullName": "Circuit of the Americas",
+        "type": "RACE",
+        "placeName": "Austin",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 12,
+        "layouts": [
+            {
+                "layoutId": "austin-1",
+                "seasons": "2012-2019,2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "avus",
+        "name": "AVUS",
+        "fullName": "AVUS",
+        "type": "ROAD",
+        "placeName": "Berlin",
+        "countryId": "germany",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "avus-1",
+                "seasons": "1959"
+            }
+        ]
+    },
+    {
+        "id": "bahrain",
+        "name": "Bahrain",
+        "fullName": "Bahrain International Circuit",
+        "type": "RACE",
+        "placeName": "Sakhir",
+        "countryId": "bahrain",
+        "totalRacesHeld": 21,
+        "layouts": [
+            {
+                "layoutId": "bahrain-1",
+                "seasons": "2004-2009,2011-2024"
+            },
+            {
+                "layoutId": "bahrain-2",
+                "seasons": "2010"
+            },
+            {
+                "layoutId": "bahrain-3",
+                "seasons": "2020",
+                "otherId": "sakhir"
+            }
+        ]
+    },
+    {
+        "id": "baku",
+        "name": "Baku",
+        "fullName": "Baku City Circuit",
+        "type": "STREET",
+        "placeName": "Baku",
+        "countryId": "azerbaijan",
+        "totalRacesHeld": 8,
+        "layouts": [
+            {
+                "layoutId": "baku-1",
+                "seasons": "2016-2019,2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "brands-hatch",
+        "name": "Brands Hatch",
+        "fullName": "Brands Hatch",
+        "type": "RACE",
+        "placeName": "Fawkham",
+        "countryId": "united-kingdom",
+        "totalRacesHeld": 14,
+        "layouts": [
+            {
+                "layoutId": "brands-hatch-1",
+                "seasons": "1964,1966,1968,1970,1972,1974"
+            },
+            {
+                "layoutId": "brands-hatch-2",
+                "seasons": "1976,1978,1980,1982-1986"
+            }
+        ]
+    },
+    {
+        "id": "bremgarten",
+        "name": "Bremgarten",
+        "fullName": "Circuit Bremgarten",
+        "type": "ROAD",
+        "placeName": "Bern",
+        "countryId": "switzerland",
+        "totalRacesHeld": 5,
+        "layouts": [
+            {
+                "layoutId": "bremgarten-1",
+                "seasons": "1950-1954"
+            }
+        ]
+    },
+    {
+        "id": "buddh",
+        "name": "Buddh",
+        "fullName": "Buddh International Circuit",
+        "type": "RACE",
+        "placeName": "Greater Noida",
+        "countryId": "india",
+        "totalRacesHeld": 3,
+        "layouts": [
+            {
+                "layoutId": "buddh-1",
+                "seasons": "2011-2013"
+            }
+        ]
+    },
+    {
+        "id": "buenos-aires",
+        "name": "Juan y Oscar Gálvez",
+        "fullName": "Autódromo Juan y Oscar Gálvez",
+        "type": "RACE",
+        "placeName": "Buenos Aires",
+        "countryId": "argentina",
+        "totalRacesHeld": 20,
+        "layouts": [
+            {
+                "layoutId": "buenos-aires-1",
+                "seasons": "1953-1958,1960"
+            },
+            {
+                "layoutId": "buenos-aires-2",
+                "seasons": "1972-1973"
+            },
+            {
+                "layoutId": "buenos-aires-3",
+                "seasons": "1974-1975,1977-1981"
+            },
+            {
+                "layoutId": "buenos-aires-4",
+                "seasons": "1995-1998"
+            }
+        ]
+    },
+    {
+        "id": "bugatti",
+        "name": "Bugatti",
+        "fullName": "Bugatti Circuit",
+        "type": "RACE",
+        "placeName": "Le Mans",
+        "countryId": "france",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "bugatti-1",
+                "seasons": "1967"
+            }
+        ]
+    },
+    {
+        "id": "caesars-palace",
+        "name": "Caesars Palace",
+        "fullName": "Caesars Palace",
+        "type": "STREET",
+        "placeName": "Las Vegas",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "caesars-palace-1",
+                "seasons": "1981-1982"
+            }
+        ]
+    },
+    {
+        "id": "catalunya",
+        "name": "Catalunya",
+        "fullName": "Circuit de Barcelona-Catalunya",
+        "type": "RACE",
+        "placeName": "Montmeló",
+        "countryId": "spain",
+        "totalRacesHeld": 34,
+        "layouts": [
+            {
+                "layoutId": "catalunya-1",
+                "seasons": "1991-1994"
+            },
+            {
+                "layoutId": "catalunya-2",
+                "seasons": "1995-2003"
+            },
+            {
+                "layoutId": "catalunya-3",
+                "seasons": "2004-2006"
+            },
+            {
+                "layoutId": "catalunya-4",
+                "seasons": "2007-2020"
+            },
+            {
+                "layoutId": "catalunya-5",
+                "seasons": "2021-2022"
+            },
+            {
+                "layoutId": "catalunya-6",
+                "seasons": "2023-2024"
+            }
+        ]
+    },
+    {
+        "id": "clermont-ferrand",
+        "name": "Charade",
+        "fullName": "Charade Circuit",
+        "type": "ROAD",
+        "placeName": "Clermont-Ferrand",
+        "countryId": "france",
+        "totalRacesHeld": 4,
+        "layouts": [
+            {
+                "layoutId": "clermont-ferrand-1",
+                "seasons": "1965,1969-1970,1972"
+            }
+        ]
+    },
+    {
+        "id": "dallas",
+        "name": "Fair Park",
+        "fullName": "Fair Park",
+        "type": "STREET",
+        "placeName": "Dallas",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "dallas-1",
+                "seasons": "1984"
+            }
+        ]
+    },
+    {
+        "id": "detroit",
+        "name": "Detroit",
+        "fullName": "Detroit Street Circuit",
+        "type": "STREET",
+        "placeName": "Detroit",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 7,
+        "layouts": [
+            {
+                "layoutId": "detroit-1",
+                "seasons": "1982"
+            },
+            {
+                "layoutId": "detroit-2",
+                "seasons": "1983-1988"
+            }
+        ]
+    },
+    {
+        "id": "dijon",
+        "name": "Dijon-Prenois",
+        "fullName": "Dijon-Prenois",
+        "type": "RACE",
+        "placeName": "Dijon",
+        "countryId": "france",
+        "totalRacesHeld": 6,
+        "layouts": [
+            {
+                "layoutId": "dijon-1",
+                "seasons": "1974"
+            },
+            {
+                "layoutId": "dijon-2",
+                "seasons": "1977,1979,1981-1982,1984"
+            }
+        ]
+    },
+    {
+        "id": "donington",
+        "name": "Donington Park",
+        "fullName": "Donington Park",
+        "type": "RACE",
+        "placeName": "Leicestershire",
+        "countryId": "united-kingdom",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "donington-1",
+                "seasons": "1993"
+            }
+        ]
+    },
+    {
+        "id": "east-london",
+        "name": "Prince George",
+        "fullName": "Prince George Circuit",
+        "type": "RACE",
+        "placeName": "East London",
+        "countryId": "south-africa",
+        "totalRacesHeld": 3,
+        "layouts": [
+            {
+                "layoutId": "east-london-1",
+                "seasons": "1962-1963,1965"
+            }
+        ]
+    },
+    {
+        "id": "estoril",
+        "name": "Estoril",
+        "fullName": "Autódromo do Estoril",
+        "type": "RACE",
+        "placeName": "Estoril",
+        "countryId": "portugal",
+        "totalRacesHeld": 13,
+        "layouts": [
+            {
+                "layoutId": "estoril-1",
+                "seasons": "1984-1993"
+            },
+            {
+                "layoutId": "estoril-2",
+                "seasons": "1994-1996"
+            }
+        ]
+    },
+    {
+        "id": "fuji",
+        "name": "Fuji",
+        "fullName": "Fuji Speedway",
+        "type": "RACE",
+        "placeName": "Oyama",
+        "countryId": "japan",
+        "totalRacesHeld": 4,
+        "layouts": [
+            {
+                "layoutId": "fuji-1",
+                "seasons": "1976-1977"
+            },
+            {
+                "layoutId": "fuji-2",
+                "seasons": "2007-2008"
+            }
+        ]
+    },
+    {
+        "id": "hockenheimring",
+        "name": "Hockenheimring",
+        "fullName": "Hockenheimring",
+        "type": "RACE",
+        "placeName": "Hockenheim",
+        "countryId": "germany",
+        "totalRacesHeld": 37,
+        "layouts": [
+            {
+                "layoutId": "hockenheimring-1",
+                "seasons": "1970,1977-1981"
+            },
+            {
+                "layoutId": "hockenheimring-2",
+                "seasons": "1982-1984,1986-1991"
+            },
+            {
+                "layoutId": "hockenheimring-3",
+                "seasons": "1992-2001"
+            },
+            {
+                "layoutId": "hockenheimring-4",
+                "seasons": "2002-2006,2008,2010,2012,2014,2016,2018-2019"
+            }
+        ]
+    },
+    {
+        "id": "hungaroring",
+        "name": "Hungaroring",
+        "fullName": "Hungaroring",
+        "type": "RACE",
+        "placeName": "Budapest",
+        "countryId": "hungary",
+        "totalRacesHeld": 39,
+        "layouts": [
+            {
+                "layoutId": "hungaroring-1",
+                "seasons": "1986-1988"
+            },
+            {
+                "layoutId": "hungaroring-2",
+                "seasons": "1989-2002"
+            },
+            {
+                "layoutId": "hungaroring-3",
+                "seasons": "2003-2024"
+            }
+        ]
+    },
+    {
+        "id": "imola",
+        "name": "Enzo e Dino Ferrari",
+        "fullName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "type": "RACE",
+        "placeName": "Imola",
+        "countryId": "italy",
+        "totalRacesHeld": 31,
+        "layouts": [
+            {
+                "layoutId": "imola-1",
+                "seasons": "1980-1994"
+            },
+            {
+                "layoutId": "imola-2",
+                "seasons": "1995-2006"
+            },
+            {
+                "layoutId": "imola-3",
+                "seasons": "2020-2024"
+            }
+        ]
+    },
+    {
+        "id": "indianapolis",
+        "name": "Indianapolis",
+        "fullName": "Indianapolis Motor Speedway",
+        "type": "RACE",
+        "placeName": "Indianapolis",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 19,
+        "layouts": [
+            {
+                "layoutId": "indianapolis-1",
+                "seasons": "1950-1960"
+            },
+            {
+                "layoutId": "indianapolis-2",
+                "seasons": "2000-2007"
+            }
+        ]
+    },
+    {
+        "id": "interlagos",
+        "name": "José Carlos Pace",
+        "fullName": "Autódromo José Carlos Pace",
+        "type": "RACE",
+        "placeName": "São Paulo",
+        "countryId": "brazil",
+        "totalRacesHeld": 41,
+        "layouts": [
+            {
+                "layoutId": "interlagos-1",
+                "seasons": "1973-1977,1979-1980"
+            },
+            {
+                "layoutId": "interlagos-2",
+                "seasons": "1990-2024"
+            }
+        ]
+    },
+    {
+        "id": "istanbul",
+        "name": "Istanbul Park",
+        "fullName": "Istanbul Park",
+        "type": "RACE",
+        "placeName": "Istanbul",
+        "countryId": "turkey",
+        "totalRacesHeld": 9,
+        "layouts": [
+            {
+                "layoutId": "istanbul-1",
+                "seasons": "2005-2011,2020-2021"
+            }
+        ]
+    },
+    {
+        "id": "jacarepagua",
+        "name": "Nelson Piquet",
+        "fullName": "Autódromo Internacional Nelson Piquet",
+        "type": "RACE",
+        "placeName": "Rio de Janeiro",
+        "countryId": "brazil",
+        "totalRacesHeld": 10,
+        "layouts": [
+            {
+                "layoutId": "jacarepagua-1",
+                "seasons": "1978,1981-1989"
+            }
+        ]
+    },
+    {
+        "id": "jarama",
+        "name": "Jarama",
+        "fullName": "Circuito del Jarama",
+        "type": "RACE",
+        "placeName": "Madrid",
+        "countryId": "spain",
+        "totalRacesHeld": 9,
+        "layouts": [
+            {
+                "layoutId": "jarama-1",
+                "seasons": "1968,1970,1972,1974,1976-1979"
+            },
+            {
+                "layoutId": "jarama-2",
+                "seasons": "1981"
+            }
+        ]
+    },
+    {
+        "id": "jeddah",
+        "name": "Jeddah",
+        "fullName": "Jeddah Corniche Circuit",
+        "type": "STREET",
+        "placeName": "Jeddah",
+        "countryId": "saudi-arabia",
+        "totalRacesHeld": 4,
+        "layouts": [
+            {
+                "layoutId": "jeddah-1",
+                "seasons": "2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "jerez",
+        "name": "Jerez",
+        "fullName": "Circuito de Jerez",
+        "type": "RACE",
+        "placeName": "Jerez de la Frontera",
+        "countryId": "spain",
+        "totalRacesHeld": 7,
+        "layouts": [
+            {
+                "layoutId": "jerez-1",
+                "seasons": "1986-1990"
+            },
+            {
+                "layoutId": "jerez-2",
+                "seasons": "1994,1997"
+            }
+        ]
+    },
+    {
+        "id": "kyalami",
+        "name": "Kyalami",
+        "fullName": "Kyalami Racing Circuit",
+        "type": "RACE",
+        "placeName": "Midrand",
+        "countryId": "south-africa",
+        "totalRacesHeld": 20,
+        "layouts": [
+            {
+                "layoutId": "kyalami-1",
+                "seasons": "1967-1980,1982-1985"
+            },
+            {
+                "layoutId": "kyalami-2",
+                "seasons": "1992-1993"
+            }
+        ]
+    },
+    {
+        "id": "las-vegas",
+        "name": "Las Vegas",
+        "fullName": "Las Vegas Street Circuit",
+        "type": "STREET",
+        "placeName": "Las Vegas",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "las-vegas-1",
+                "seasons": "2023-2024"
+            }
+        ]
+    },
+    {
+        "id": "long-beach",
+        "name": "Long Beach",
+        "fullName": "Long Beach",
+        "type": "STREET",
+        "placeName": "Long Beach",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 8,
+        "layouts": [
+            {
+                "layoutId": "long-beach-1",
+                "seasons": "1976-1981"
+            },
+            {
+                "layoutId": "long-beach-2",
+                "seasons": "1982"
+            },
+            {
+                "layoutId": "long-beach-3",
+                "seasons": "1983"
+            }
+        ]
+    },
+    {
+        "id": "lusail",
+        "name": "Lusail",
+        "fullName": "Lusail International Circuit",
+        "type": "RACE",
+        "placeName": "Lusail",
+        "countryId": "qatar",
+        "totalRacesHeld": 3,
+        "layouts": [
+            {
+                "layoutId": "lusail-1",
+                "seasons": "2021,2023-2024"
+            }
+        ]
+    },
+    {
+        "id": "magny-cours",
+        "name": "Magny-Cours",
+        "fullName": "Circuit de Nevers Magny-Cours",
+        "type": "RACE",
+        "placeName": "Nevers",
+        "countryId": "france",
+        "totalRacesHeld": 18,
+        "layouts": [
+            {
+                "layoutId": "magny-cours-1",
+                "seasons": "1991"
+            },
+            {
+                "layoutId": "magny-cours-2",
+                "seasons": "1992-2002"
+            },
+            {
+                "layoutId": "magny-cours-3",
+                "seasons": "2003-2008"
+            }
+        ]
+    },
+    {
+        "id": "marina-bay",
+        "name": "Marina Bay",
+        "fullName": "Marina Bay Street Circuit",
+        "type": "STREET",
+        "placeName": "Singapore",
+        "countryId": "singapore",
+        "totalRacesHeld": 15,
+        "layouts": [
+            {
+                "layoutId": "marina-bay-1",
+                "seasons": "2008-2012"
+            },
+            {
+                "layoutId": "marina-bay-2",
+                "seasons": "2013-2014"
+            },
+            {
+                "layoutId": "marina-bay-3",
+                "seasons": "2015-2019,2022"
+            },
+            {
+                "layoutId": "marina-bay-4",
+                "seasons": "2023-2024"
+            }
+        ]
+    },
+    {
+        "id": "melbourne",
+        "name": "Melbourne",
+        "fullName": "Melbourne Grand Prix Circuit",
+        "type": "STREET",
+        "placeName": "Melbourne",
+        "countryId": "australia",
+        "totalRacesHeld": 27,
+        "layouts": [
+            {
+                "layoutId": "melbourne-1",
+                "seasons": "1996-2019"
+            },
+            {
+                "layoutId": "melbourne-2",
+                "seasons": "2022-2024"
+            }
+        ]
+    },
+    {
+        "id": "mexico-city",
+        "name": "Hermanos Rodríguez",
+        "fullName": "Autódromo Hermanos Rodríguez",
+        "type": "RACE",
+        "placeName": "Mexico City",
+        "countryId": "mexico",
+        "totalRacesHeld": 24,
+        "layouts": [
+            {
+                "layoutId": "mexico-city-1",
+                "seasons": "1963-1970"
+            },
+            {
+                "layoutId": "mexico-city-2",
+                "seasons": "1986-1992"
+            },
+            {
+                "layoutId": "mexico-city-3",
+                "seasons": "2015-2019,2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "miami",
+        "name": "Miami",
+        "fullName": "Miami International Autodrome",
+        "type": "STREET",
+        "placeName": "Miami Gardens",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 3,
+        "layouts": [
+            {
+                "layoutId": "miami-1",
+                "seasons": "2022-2024"
+            }
+        ]
+    },
+    {
+        "id": "monaco",
+        "name": "Monaco",
+        "fullName": "Circuit de Monaco",
+        "type": "STREET",
+        "placeName": "Monte Carlo",
+        "countryId": "monaco",
+        "totalRacesHeld": 70,
+        "layouts": [
+            {
+                "layoutId": "monaco-1",
+                "seasons": "1950,1955-1972"
+            },
+            {
+                "layoutId": "monaco-2",
+                "seasons": "1973-1975"
+            },
+            {
+                "layoutId": "monaco-3",
+                "seasons": "1976-1985"
+            },
+            {
+                "layoutId": "monaco-4",
+                "seasons": "1986-2002"
+            },
+            {
+                "layoutId": "monaco-5",
+                "seasons": "2003-2019,2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "monsanto",
+        "name": "Monsanto",
+        "fullName": "Circuito de Monsanto",
+        "type": "STREET",
+        "placeName": "Lisbon",
+        "countryId": "portugal",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "monsanto-1",
+                "seasons": "1959"
+            }
+        ]
+    },
+    {
+        "id": "montjuic",
+        "name": "Montjuïc",
+        "fullName": "Circuito de Montjuïc",
+        "type": "STREET",
+        "placeName": "Barcelona",
+        "countryId": "spain",
+        "totalRacesHeld": 4,
+        "layouts": [
+            {
+                "layoutId": "montjuic-1",
+                "seasons": "1969,1971,1973,1975"
+            }
+        ]
+    },
+    {
+        "id": "montreal",
+        "name": "Gilles Villeneuve",
+        "fullName": "Circuit Gilles Villeneuve",
+        "type": "STREET",
+        "placeName": "Montreal",
+        "countryId": "canada",
+        "totalRacesHeld": 43,
+        "layouts": [
+            {
+                "layoutId": "montreal-1",
+                "seasons": "1978"
+            },
+            {
+                "layoutId": "montreal-2",
+                "seasons": "1979-1986,1988-1990"
+            },
+            {
+                "layoutId": "montreal-3",
+                "seasons": "1991-1993"
+            },
+            {
+                "layoutId": "montreal-4",
+                "seasons": "1994-1995"
+            },
+            {
+                "layoutId": "montreal-5",
+                "seasons": "1996-2001"
+            },
+            {
+                "layoutId": "montreal-6",
+                "seasons": "2002-2019,2022-2024"
+            }
+        ]
+    },
+    {
+        "id": "mont-tremblant",
+        "name": "Mont-Tremblant",
+        "fullName": "Circuit Mont-Tremblant",
+        "type": "RACE",
+        "placeName": "Mont-Tremblant",
+        "countryId": "canada",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "mont-tremblant-1",
+                "seasons": "1968,1970"
+            }
+        ]
+    },
+    {
+        "id": "monza",
+        "name": "Monza",
+        "fullName": "Autodromo Nazionale Monza",
+        "type": "RACE",
+        "placeName": "Monza",
+        "countryId": "italy",
+        "totalRacesHeld": 74,
+        "layouts": [
+            {
+                "layoutId": "monza-1",
+                "seasons": "1950-1954"
+            },
+            {
+                "layoutId": "monza-2",
+                "seasons": "1955-1956,1960-1961"
+            },
+            {
+                "layoutId": "monza-3",
+                "seasons": "1957-1959,1962-1971"
+            },
+            {
+                "layoutId": "monza-4",
+                "seasons": "1972-1975"
+            },
+            {
+                "layoutId": "monza-5",
+                "seasons": "1976-1979,1981-1999"
+            },
+            {
+                "layoutId": "monza-6",
+                "seasons": "2000-2024"
+            }
+        ]
+    },
+    {
+        "id": "mosport",
+        "name": "Mosport",
+        "fullName": "Canadian Tire Motorsport Park",
+        "type": "RACE",
+        "placeName": "Bowmanville",
+        "countryId": "canada",
+        "totalRacesHeld": 8,
+        "layouts": [
+            {
+                "layoutId": "mosport-1",
+                "seasons": "1967,1969,1971-1974,1976-1977"
+            }
+        ]
+    },
+    {
+        "id": "mugello",
+        "name": "Mugello",
+        "fullName": "Autodromo Internazionale del Mugello",
+        "type": "RACE",
+        "placeName": "Scarperia e San Piero",
+        "countryId": "italy",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "mugello-1",
+                "seasons": "2020"
+            }
+        ]
+    },
+    {
+        "id": "nivelles",
+        "name": "Nivelles-Baulers",
+        "fullName": "Nivelles-Baulers",
+        "type": "RACE",
+        "placeName": "Nivelles",
+        "countryId": "belgium",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "nivelles-1",
+                "seasons": "1972,1974"
+            }
+        ]
+    },
+    {
+        "id": "nurburgring",
+        "name": "Nürburgring",
+        "fullName": "Nürburgring",
+        "type": "RACE",
+        "placeName": "Nürburg",
+        "countryId": "germany",
+        "totalRacesHeld": 41,
+        "layouts": [
+            {
+                "layoutId": "nurburgring-1",
+                "seasons": "1951-1958,1961-1969,1971-1976"
+            },
+            {
+                "layoutId": "nurburgring-2",
+                "seasons": "1984-1985"
+            },
+            {
+                "layoutId": "nurburgring-3",
+                "seasons": "1995-2001"
+            },
+            {
+                "layoutId": "nurburgring-4",
+                "seasons": "2002-2007,2009,2011,2013,2020"
+            }
+        ]
+    },
+    {
+        "id": "paul-ricard",
+        "name": "Paul Ricard",
+        "fullName": "Circuit Paul Ricard",
+        "type": "RACE",
+        "placeName": "Le Castellet",
+        "countryId": "france",
+        "totalRacesHeld": 18,
+        "layouts": [
+            {
+                "layoutId": "paul-ricard-1",
+                "seasons": "1971,1973,1975-1976,1978,1980,1982-1983,1985"
+            },
+            {
+                "layoutId": "paul-ricard-2",
+                "seasons": "1986-1990"
+            },
+            {
+                "layoutId": "paul-ricard-3",
+                "seasons": "2018-2019,2021-2022"
+            }
+        ]
+    },
+    {
+        "id": "pedralbes",
+        "name": "Pedralbes",
+        "fullName": "Pedralbes Circuit",
+        "type": "STREET",
+        "placeName": "Barcelona",
+        "countryId": "spain",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "pedralbes-1",
+                "seasons": "1951,1954"
+            }
+        ]
+    },
+    {
+        "id": "pescara",
+        "name": "Pescara",
+        "fullName": "Pescara Circuit",
+        "type": "ROAD",
+        "placeName": "Pescara",
+        "countryId": "italy",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "pescara-1",
+                "seasons": "1957"
+            }
+        ]
+    },
+    {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "fullName": "Phoenix Street Circuit",
+        "type": "STREET",
+        "placeName": "Phoenix",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 3,
+        "layouts": [
+            {
+                "layoutId": "phoenix-1",
+                "seasons": "1989-1990"
+            },
+            {
+                "layoutId": "phoenix-2",
+                "seasons": "1991"
+            }
+        ]
+    },
+    {
+        "id": "portimao",
+        "name": "Portimão",
+        "fullName": "Algarve International Circuit",
+        "type": "RACE",
+        "placeName": "Portimão",
+        "countryId": "portugal",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "portimao-1",
+                "seasons": "2020-2021"
+            }
+        ]
+    },
+    {
+        "id": "porto",
+        "name": "Boavista",
+        "fullName": "Circuito da Boavista",
+        "type": "STREET",
+        "placeName": "Porto",
+        "countryId": "portugal",
+        "totalRacesHeld": 2,
+        "layouts": [
+            {
+                "layoutId": "porto-1",
+                "seasons": "1958,1960"
+            }
+        ]
+    },
+    {
+        "id": "reims",
+        "name": "Reims-Gueux",
+        "fullName": "Reims-Gueux",
+        "type": "ROAD",
+        "placeName": "Reims",
+        "countryId": "france",
+        "totalRacesHeld": 11,
+        "layouts": [
+            {
+                "layoutId": "reims-1",
+                "seasons": "1950-1951"
+            },
+            {
+                "layoutId": "reims-2",
+                "seasons": "1953-1954,1956,1958-1961,1963,1966"
+            }
+        ]
+    },
+    {
+        "id": "riverside",
+        "name": "Riverside",
+        "fullName": "Riverside International Raceway",
+        "type": "RACE",
+        "placeName": "Riverside",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "riverside-1",
+                "seasons": "1960"
+            }
+        ]
+    },
+    {
+        "id": "rouen",
+        "name": "Rouen-Les-Essarts",
+        "fullName": "Rouen-Les-Essarts",
+        "type": "ROAD",
+        "placeName": "Rouen",
+        "countryId": "france",
+        "totalRacesHeld": 5,
+        "layouts": [
+            {
+                "layoutId": "rouen-1",
+                "seasons": "1952"
+            },
+            {
+                "layoutId": "rouen-2",
+                "seasons": "1957,1962,1964,1968"
+            }
+        ]
+    },
+    {
+        "id": "sebring",
+        "name": "Sebring",
+        "fullName": "Sebring International Raceway",
+        "type": "ROAD",
+        "placeName": "Sebring",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "sebring-1",
+                "seasons": "1959"
+            }
+        ]
+    },
+    {
+        "id": "sepang",
+        "name": "Sepang",
+        "fullName": "Sepang International Circuit",
+        "type": "RACE",
+        "placeName": "Sepang",
+        "countryId": "malaysia",
+        "totalRacesHeld": 19,
+        "layouts": [
+            {
+                "layoutId": "sepang-1",
+                "seasons": "1999-2017"
+            }
+        ]
+    },
+    {
+        "id": "shanghai",
+        "name": "Shanghai",
+        "fullName": "Shanghai International Circuit",
+        "type": "RACE",
+        "placeName": "Shanghai",
+        "countryId": "china",
+        "totalRacesHeld": 17,
+        "layouts": [
+            {
+                "layoutId": "shanghai-1",
+                "seasons": "2004-2019,2024"
+            }
+        ]
+    },
+    {
+        "id": "silverstone",
+        "name": "Silverstone",
+        "fullName": "Silverstone Circuit",
+        "type": "RACE",
+        "placeName": "Silverstone",
+        "countryId": "united-kingdom",
+        "totalRacesHeld": 59,
+        "layouts": [
+            {
+                "layoutId": "silverstone-1",
+                "seasons": "1950-1954,1956,1958,1960,1963,1965,1967,1969,1971,1973"
+            },
+            {
+                "layoutId": "silverstone-2",
+                "seasons": "1975,1977,1979,1981,1983,1985"
+            },
+            {
+                "layoutId": "silverstone-3",
+                "seasons": "1987-1990"
+            },
+            {
+                "layoutId": "silverstone-4",
+                "seasons": "1991-1993"
+            },
+            {
+                "layoutId": "silverstone-5",
+                "seasons": "1994-1995"
+            },
+            {
+                "layoutId": "silverstone-6",
+                "seasons": "1996"
+            },
+            {
+                "layoutId": "silverstone-7",
+                "seasons": "1997-2009"
+            },
+            {
+                "layoutId": "silverstone-8",
+                "seasons": "2010-2024"
+            }
+        ]
+    },
+    {
+        "id": "sochi",
+        "name": "Sochi",
+        "fullName": "Sochi Autodrom",
+        "type": "ROAD",
+        "placeName": "Sochi",
+        "countryId": "russia",
+        "totalRacesHeld": 8,
+        "layouts": [
+            {
+                "layoutId": "sochi-1",
+                "seasons": "2014-2021"
+            }
+        ]
+    },
+    {
+        "id": "spa-francorchamps",
+        "name": "Spa-Francorchamps",
+        "fullName": "Circuit de Spa-Francorchamps",
+        "type": "RACE",
+        "placeName": "Spa",
+        "countryId": "belgium",
+        "totalRacesHeld": 57,
+        "layouts": [
+            {
+                "layoutId": "spa-francorchamps-1",
+                "seasons": "1950-1956,1958-1968,1970"
+            },
+            {
+                "layoutId": "spa-francorchamps-2",
+                "seasons": "1983,1985-2002"
+            },
+            {
+                "layoutId": "spa-francorchamps-3",
+                "seasons": "2004-2005"
+            },
+            {
+                "layoutId": "spa-francorchamps-4",
+                "seasons": "2007-2024"
+            }
+        ]
+    },
+    {
+        "id": "spielberg",
+        "name": "Red Bull Ring",
+        "fullName": "Red Bull Ring",
+        "type": "RACE",
+        "placeName": "Spielberg",
+        "countryId": "austria",
+        "totalRacesHeld": 38,
+        "layouts": [
+            {
+                "layoutId": "spielberg-1",
+                "seasons": "1970-1976"
+            },
+            {
+                "layoutId": "spielberg-2",
+                "seasons": "1977-1987"
+            },
+            {
+                "layoutId": "spielberg-3",
+                "seasons": "1997-2003,2014-2024"
+            }
+        ]
+    },
+    {
+        "id": "suzuka",
+        "name": "Suzuka",
+        "fullName": "Suzuka Circuit",
+        "type": "RACE",
+        "placeName": "Suzuka",
+        "countryId": "japan",
+        "totalRacesHeld": 34,
+        "layouts": [
+            {
+                "layoutId": "suzuka-1",
+                "seasons": "1987-2002"
+            },
+            {
+                "layoutId": "suzuka-2",
+                "seasons": "2003-2006,2009-2019,2022-2024"
+            }
+        ]
+    },
+    {
+        "id": "valencia",
+        "name": "Valencia",
+        "fullName": "Valencia Street Circuit",
+        "type": "STREET",
+        "placeName": "Valencia",
+        "countryId": "spain",
+        "totalRacesHeld": 5,
+        "layouts": [
+            {
+                "layoutId": "valencia-1",
+                "seasons": "2008-2012"
+            }
+        ]
+    },
+    {
+        "id": "watkins-glen",
+        "name": "Watkins Glen",
+        "fullName": "Watkins Glen International",
+        "type": "RACE",
+        "placeName": "Watkins Glen",
+        "countryId": "united-states-of-america",
+        "totalRacesHeld": 20,
+        "layouts": [
+            {
+                "layoutId": "watkins-glen-1",
+                "seasons": "1961-1970"
+            },
+            {
+                "layoutId": "watkins-glen-2",
+                "seasons": "1971-1974"
+            },
+            {
+                "layoutId": "watkins-glen-3",
+                "seasons": "1975-1980"
+            }
+        ]
+    },
+    {
+        "id": "yas-marina",
+        "name": "Yas Marina",
+        "fullName": "Yas Marina Circuit",
+        "type": "RACE",
+        "placeName": "Abu Dhabi",
+        "countryId": "united-arab-emirates",
+        "totalRacesHeld": 16,
+        "layouts": [
+            {
+                "layoutId": "yas-marina-1",
+                "seasons": "2009-2020"
+            },
+            {
+                "layoutId": "yas-marina-2",
+                "seasons": "2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "yeongam",
+        "name": "Korea",
+        "fullName": "Korea International Circuit",
+        "type": "RACE",
+        "placeName": "Yeongam",
+        "countryId": "south-korea",
+        "totalRacesHeld": 4,
+        "layouts": [
+            {
+                "layoutId": "yeongam-1",
+                "seasons": "2010-2013"
+            }
+        ]
+    },
+    {
+        "id": "zandvoort",
+        "name": "Zandvoort",
+        "fullName": "Circuit Park Zandvoort",
+        "type": "RACE",
+        "placeName": "Zandvoort",
+        "countryId": "netherlands",
+        "totalRacesHeld": 34,
+        "layouts": [
+            {
+                "layoutId": "zandvoort-1",
+                "seasons": "1952-1953,1955,1958-1971"
+            },
+            {
+                "layoutId": "zandvoort-2",
+                "seasons": "1973-1978"
+            },
+            {
+                "layoutId": "zandvoort-3",
+                "seasons": "1979"
+            },
+            {
+                "layoutId": "zandvoort-4",
+                "seasons": "1980-1985"
+            },
+            {
+                "layoutId": "zandvoort",
+                "seasons": "2021-2024"
+            }
+        ]
+    },
+    {
+        "id": "zeltweg",
+        "name": "Zeltweg",
+        "fullName": "Zeltweg",
+        "type": "ROAD",
+        "placeName": "Zeltweg",
+        "countryId": "austria",
+        "totalRacesHeld": 1,
+        "layouts": [
+            {
+                "layoutId": "zeltweg-1",
+                "seasons": "1964"
+            }
+        ]
+    },
+    {
+        "id": "zolder",
+        "name": "Zolder",
+        "fullName": "Circuit Zolder",
+        "type": "RACE",
+        "placeName": "Heusden-Zolder",
+        "countryId": "belgium",
+        "totalRacesHeld": 10,
+        "layouts": [
+            {
+                "layoutId": "zolder-1",
+                "seasons": "1973"
+            },
+            {
+                "layoutId": "zolder-2",
+                "seasons": "1975-1982,1984"
+            }
+        ]
+    }
+]
