@@ -1,12 +1,10 @@
 [
     {
         "id": "adelaide",
-        "name": "Adelaide",
-        "fullName": "Adelaide Street Circuit",
-        "type": "STREET",
-        "placeName": "Adelaide",
+        "name": "Adelaide Street Circuit",
         "countryId": "australia",
-        "totalRacesHeld": 11,
+        "latitude": -34.927222,
+        "longitude": 138.617222,
         "layouts": [
             {
                 "layoutId": "adelaide-1",
@@ -16,12 +14,10 @@
     },
     {
         "id": "aida",
-        "name": "Aida",
-        "fullName": "Okayama International Circuit",
-        "type": "RACE",
-        "placeName": "Aida",
+        "name": "Okayama International Circuit",
         "countryId": "japan",
-        "totalRacesHeld": 2,
+        "latitude": 34.915,
+        "longitude": 134.221111,
         "layouts": [
             {
                 "layoutId": "aida-1",
@@ -31,12 +27,10 @@
     },
     {
         "id": "ain-diab",
-        "name": "Ain-Diab",
-        "fullName": "Ain-Diab Circuit",
-        "type": "ROAD",
-        "placeName": "Casablanca",
+        "name": "Ain-Diab Circuit",
         "countryId": "morocco",
-        "totalRacesHeld": 1,
+        "latitude": 33.578611,
+        "longitude": -7.6875,
         "layouts": [
             {
                 "layoutId": "ain-diab-1",
@@ -46,12 +40,10 @@
     },
     {
         "id": "aintree",
-        "name": "Aintree",
-        "fullName": "Aintree Motor Racing Circuit",
-        "type": "ROAD",
-        "placeName": "Aintree",
+        "name": "Aintree Motor Racing Circuit",
         "countryId": "united-kingdom",
-        "totalRacesHeld": 5,
+        "latitude": 53.476944,
+        "longitude": -2.940556,
         "layouts": [
             {
                 "layoutId": "aintree-1",
@@ -62,11 +54,9 @@
     {
         "id": "anderstorp",
         "name": "Anderstorp Raceway",
-        "fullName": "Anderstorp Raceway",
-        "type": "RACE",
-        "placeName": "Anderstorp",
         "countryId": "sweden",
-        "totalRacesHeld": 6,
+        "latitude": 57.264167,
+        "longitude": 13.601389,
         "layouts": [
             {
                 "layoutId": "anderstorp-1",
@@ -76,27 +66,23 @@
     },
     {
         "id": "austin",
-        "name": "Americas",
-        "fullName": "Circuit of the Americas",
-        "type": "RACE",
-        "placeName": "Austin",
+        "name": "Circuit of the Americas",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 12,
+        "latitude": 30.132778,
+        "longitude": -97.641111,
         "layouts": [
             {
                 "layoutId": "austin-1",
-                "seasons": "2012-2019,2021-2024"
+                "seasons": "2012-2019,2021-2025"
             }
         ]
     },
     {
         "id": "avus",
         "name": "AVUS",
-        "fullName": "AVUS",
-        "type": "ROAD",
-        "placeName": "Berlin",
         "countryId": "germany",
-        "totalRacesHeld": 1,
+        "latitude": 52.480556,
+        "longitude": 13.251389,
         "layouts": [
             {
                 "layoutId": "avus-1",
@@ -106,16 +92,14 @@
     },
     {
         "id": "bahrain",
-        "name": "Bahrain",
-        "fullName": "Bahrain International Circuit",
-        "type": "RACE",
-        "placeName": "Sakhir",
+        "name": "Bahrain International Circuit",
         "countryId": "bahrain",
-        "totalRacesHeld": 21,
+        "latitude": 26.0325,
+        "longitude": 50.510556,
         "layouts": [
             {
                 "layoutId": "bahrain-1",
-                "seasons": "2004-2009,2011-2024"
+                "seasons": "2004-2009,2011-2025"
             },
             {
                 "layoutId": "bahrain-2",
@@ -130,27 +114,23 @@
     },
     {
         "id": "baku",
-        "name": "Baku",
-        "fullName": "Baku City Circuit",
-        "type": "STREET",
-        "placeName": "Baku",
+        "name": "Baku City Circuit",
         "countryId": "azerbaijan",
-        "totalRacesHeld": 8,
+        "latitude": 40.3725,
+        "longitude": 49.853333,
         "layouts": [
             {
                 "layoutId": "baku-1",
-                "seasons": "2016-2019,2021-2024"
+                "seasons": "2016-2019,2021-2025"
             }
         ]
     },
     {
         "id": "brands-hatch",
         "name": "Brands Hatch",
-        "fullName": "Brands Hatch",
-        "type": "RACE",
-        "placeName": "Fawkham",
         "countryId": "united-kingdom",
-        "totalRacesHeld": 14,
+        "latitude": 51.356667,
+        "longitude": 0.2625,
         "layouts": [
             {
                 "layoutId": "brands-hatch-1",
@@ -164,12 +144,10 @@
     },
     {
         "id": "bremgarten",
-        "name": "Bremgarten",
-        "fullName": "Circuit Bremgarten",
-        "type": "ROAD",
-        "placeName": "Bern",
+        "name": "Circuit Bremgarten",
         "countryId": "switzerland",
-        "totalRacesHeld": 5,
+        "latitude": 46.95,
+        "longitude": 7.410833,
         "layouts": [
             {
                 "layoutId": "bremgarten-1",
@@ -179,12 +157,10 @@
     },
     {
         "id": "buddh",
-        "name": "Buddh",
-        "fullName": "Buddh International Circuit",
-        "type": "RACE",
-        "placeName": "Greater Noida",
+        "name": "Buddh International Circuit",
         "countryId": "india",
-        "totalRacesHeld": 3,
+        "latitude": 28.350556,
+        "longitude": 77.535,
         "layouts": [
             {
                 "layoutId": "buddh-1",
@@ -194,12 +170,10 @@
     },
     {
         "id": "buenos-aires",
-        "name": "Juan y Oscar Gálvez",
-        "fullName": "Autódromo Juan y Oscar Gálvez",
-        "type": "RACE",
-        "placeName": "Buenos Aires",
+        "name": "Autódromo Juan y Oscar Gálvez",
         "countryId": "argentina",
-        "totalRacesHeld": 20,
+        "latitude": -34.694272,
+        "longitude": -58.459347,
         "layouts": [
             {
                 "layoutId": "buenos-aires-1",
@@ -221,12 +195,10 @@
     },
     {
         "id": "bugatti",
-        "name": "Bugatti",
-        "fullName": "Bugatti Circuit",
-        "type": "RACE",
-        "placeName": "Le Mans",
+        "name": "Bugatti Circuit",
         "countryId": "france",
-        "totalRacesHeld": 1,
+        "latitude": 47.937694,
+        "longitude": 0.225611,
         "layouts": [
             {
                 "layoutId": "bugatti-1",
@@ -237,11 +209,9 @@
     {
         "id": "caesars-palace",
         "name": "Caesars Palace",
-        "fullName": "Caesars Palace",
-        "type": "STREET",
-        "placeName": "Las Vegas",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 2,
+        "latitude": 36.116944,
+        "longitude": -115.175,
         "layouts": [
             {
                 "layoutId": "caesars-palace-1",
@@ -251,12 +221,10 @@
     },
     {
         "id": "catalunya",
-        "name": "Catalunya",
-        "fullName": "Circuit de Barcelona-Catalunya",
-        "type": "RACE",
-        "placeName": "Montmeló",
+        "name": "Circuit de Barcelona-Catalunya",
         "countryId": "spain",
-        "totalRacesHeld": 34,
+        "latitude": 41.57,
+        "longitude": 2.261111,
         "layouts": [
             {
                 "layoutId": "catalunya-1",
@@ -280,18 +248,16 @@
             },
             {
                 "layoutId": "catalunya-6",
-                "seasons": "2023-2024"
+                "seasons": "2023-2025"
             }
         ]
     },
     {
         "id": "clermont-ferrand",
-        "name": "Charade",
-        "fullName": "Charade Circuit",
-        "type": "ROAD",
-        "placeName": "Clermont-Ferrand",
+        "name": "Charade Circuit",
         "countryId": "france",
-        "totalRacesHeld": 4,
+        "latitude": 45.747222,
+        "longitude": 3.038889,
         "layouts": [
             {
                 "layoutId": "clermont-ferrand-1",
@@ -302,11 +268,9 @@
     {
         "id": "dallas",
         "name": "Fair Park",
-        "fullName": "Fair Park",
-        "type": "STREET",
-        "placeName": "Dallas",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 1,
+        "latitude": 32.781944,
+        "longitude": -96.765556,
         "layouts": [
             {
                 "layoutId": "dallas-1",
@@ -316,12 +280,10 @@
     },
     {
         "id": "detroit",
-        "name": "Detroit",
-        "fullName": "Detroit Street Circuit",
-        "type": "STREET",
-        "placeName": "Detroit",
+        "name": "Detroit Street Circuit",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 7,
+        "latitude": 42.32975,
+        "longitude": -83.040111,
         "layouts": [
             {
                 "layoutId": "detroit-1",
@@ -336,11 +298,9 @@
     {
         "id": "dijon",
         "name": "Dijon-Prenois",
-        "fullName": "Dijon-Prenois",
-        "type": "RACE",
-        "placeName": "Dijon",
         "countryId": "france",
-        "totalRacesHeld": 6,
+        "latitude": 47.3625,
+        "longitude": 4.899167,
         "layouts": [
             {
                 "layoutId": "dijon-1",
@@ -355,11 +315,9 @@
     {
         "id": "donington",
         "name": "Donington Park",
-        "fullName": "Donington Park",
-        "type": "RACE",
-        "placeName": "Leicestershire",
         "countryId": "united-kingdom",
-        "totalRacesHeld": 1,
+        "latitude": 52.829806,
+        "longitude": -1.379556,
         "layouts": [
             {
                 "layoutId": "donington-1",
@@ -369,12 +327,10 @@
     },
     {
         "id": "east-london",
-        "name": "Prince George",
-        "fullName": "Prince George Circuit",
-        "type": "RACE",
-        "placeName": "East London",
+        "name": "Prince George Circuit",
         "countryId": "south-africa",
-        "totalRacesHeld": 3,
+        "latitude": -33.048611,
+        "longitude": 27.873611,
         "layouts": [
             {
                 "layoutId": "east-london-1",
@@ -384,12 +340,10 @@
     },
     {
         "id": "estoril",
-        "name": "Estoril",
-        "fullName": "Autódromo do Estoril",
-        "type": "RACE",
-        "placeName": "Estoril",
+        "name": "Autódromo do Estoril",
         "countryId": "portugal",
-        "totalRacesHeld": 13,
+        "latitude": 38.750833,
+        "longitude": -9.394167,
         "layouts": [
             {
                 "layoutId": "estoril-1",
@@ -403,12 +357,10 @@
     },
     {
         "id": "fuji",
-        "name": "Fuji",
-        "fullName": "Fuji Speedway",
-        "type": "RACE",
-        "placeName": "Oyama",
+        "name": "Fuji Speedway",
         "countryId": "japan",
-        "totalRacesHeld": 4,
+        "latitude": 35.371667,
+        "longitude": 138.926667,
         "layouts": [
             {
                 "layoutId": "fuji-1",
@@ -423,11 +375,9 @@
     {
         "id": "hockenheimring",
         "name": "Hockenheimring",
-        "fullName": "Hockenheimring",
-        "type": "RACE",
-        "placeName": "Hockenheim",
         "countryId": "germany",
-        "totalRacesHeld": 37,
+        "latitude": 49.327778,
+        "longitude": 8.565833,
         "layouts": [
             {
                 "layoutId": "hockenheimring-1",
@@ -450,11 +400,9 @@
     {
         "id": "hungaroring",
         "name": "Hungaroring",
-        "fullName": "Hungaroring",
-        "type": "RACE",
-        "placeName": "Budapest",
         "countryId": "hungary",
-        "totalRacesHeld": 39,
+        "latitude": 47.582222,
+        "longitude": 19.251111,
         "layouts": [
             {
                 "layoutId": "hungaroring-1",
@@ -466,18 +414,16 @@
             },
             {
                 "layoutId": "hungaroring-3",
-                "seasons": "2003-2024"
+                "seasons": "2003-2025"
             }
         ]
     },
     {
         "id": "imola",
-        "name": "Enzo e Dino Ferrari",
-        "fullName": "Autodromo Internazionale Enzo e Dino Ferrari",
-        "type": "RACE",
-        "placeName": "Imola",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari",
         "countryId": "italy",
-        "totalRacesHeld": 31,
+        "latitude": 44.341111,
+        "longitude": 11.713333,
         "layouts": [
             {
                 "layoutId": "imola-1",
@@ -489,18 +435,16 @@
             },
             {
                 "layoutId": "imola-3",
-                "seasons": "2020-2024"
+                "seasons": "2020-2025"
             }
         ]
     },
     {
         "id": "indianapolis",
-        "name": "Indianapolis",
-        "fullName": "Indianapolis Motor Speedway",
-        "type": "RACE",
-        "placeName": "Indianapolis",
+        "name": "Indianapolis Motor Speedway",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 19,
+        "latitude": 39.798333,
+        "longitude": -86.232778,
         "layouts": [
             {
                 "layoutId": "indianapolis-1",
@@ -514,12 +458,10 @@
     },
     {
         "id": "interlagos",
-        "name": "José Carlos Pace",
-        "fullName": "Autódromo José Carlos Pace",
-        "type": "RACE",
-        "placeName": "São Paulo",
+        "name": "Autódromo José Carlos Pace",
         "countryId": "brazil",
-        "totalRacesHeld": 41,
+        "latitude": -23.701111,
+        "longitude": -46.697222,
         "layouts": [
             {
                 "layoutId": "interlagos-1",
@@ -527,18 +469,16 @@
             },
             {
                 "layoutId": "interlagos-2",
-                "seasons": "1990-2024"
+                "seasons": "1990-2025"
             }
         ]
     },
     {
         "id": "istanbul",
         "name": "Istanbul Park",
-        "fullName": "Istanbul Park",
-        "type": "RACE",
-        "placeName": "Istanbul",
         "countryId": "turkey",
-        "totalRacesHeld": 9,
+        "latitude": 40.951667,
+        "longitude": 29.405,
         "layouts": [
             {
                 "layoutId": "istanbul-1",
@@ -548,12 +488,10 @@
     },
     {
         "id": "jacarepagua",
-        "name": "Nelson Piquet",
-        "fullName": "Autódromo Internacional Nelson Piquet",
-        "type": "RACE",
-        "placeName": "Rio de Janeiro",
+        "name": "Autódromo Internacional Nelson Piquet",
         "countryId": "brazil",
-        "totalRacesHeld": 10,
+        "latitude": -22.975556,
+        "longitude": -43.395,
         "layouts": [
             {
                 "layoutId": "jacarepagua-1",
@@ -563,12 +501,10 @@
     },
     {
         "id": "jarama",
-        "name": "Jarama",
-        "fullName": "Circuito del Jarama",
-        "type": "RACE",
-        "placeName": "Madrid",
+        "name": "Circuito del Jarama",
         "countryId": "spain",
-        "totalRacesHeld": 9,
+        "latitude": 40.617111,
+        "longitude": -3.585583,
         "layouts": [
             {
                 "layoutId": "jarama-1",
@@ -582,27 +518,23 @@
     },
     {
         "id": "jeddah",
-        "name": "Jeddah",
-        "fullName": "Jeddah Corniche Circuit",
-        "type": "STREET",
-        "placeName": "Jeddah",
+        "name": "Jeddah Corniche Circuit",
         "countryId": "saudi-arabia",
-        "totalRacesHeld": 4,
+        "latitude": 21.543333,
+        "longitude": 39.172778,
         "layouts": [
             {
                 "layoutId": "jeddah-1",
-                "seasons": "2021-2024"
+                "seasons": "2021-2025"
             }
         ]
     },
     {
         "id": "jerez",
-        "name": "Jerez",
-        "fullName": "Circuito de Jerez",
-        "type": "RACE",
-        "placeName": "Jerez de la Frontera",
+        "name": "Circuito de Jerez",
         "countryId": "spain",
-        "totalRacesHeld": 7,
+        "latitude": 36.708333,
+        "longitude": -6.034167,
         "layouts": [
             {
                 "layoutId": "jerez-1",
@@ -616,12 +548,10 @@
     },
     {
         "id": "kyalami",
-        "name": "Kyalami",
-        "fullName": "Kyalami Racing Circuit",
-        "type": "RACE",
-        "placeName": "Midrand",
+        "name": "Kyalami Racing Circuit",
         "countryId": "south-africa",
-        "totalRacesHeld": 20,
+        "latitude": -25.998611,
+        "longitude": 28.068889,
         "layouts": [
             {
                 "layoutId": "kyalami-1",
@@ -635,27 +565,23 @@
     },
     {
         "id": "las-vegas",
-        "name": "Las Vegas",
-        "fullName": "Las Vegas Street Circuit",
-        "type": "STREET",
-        "placeName": "Las Vegas",
+        "name": "Las Vegas Street Circuit",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 2,
+        "latitude": 36.175,
+        "longitude": -115.136389,
         "layouts": [
             {
                 "layoutId": "las-vegas-1",
-                "seasons": "2023-2024"
+                "seasons": "2023-2025"
             }
         ]
     },
     {
         "id": "long-beach",
         "name": "Long Beach",
-        "fullName": "Long Beach",
-        "type": "STREET",
-        "placeName": "Long Beach",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 8,
+        "latitude": 33.766389,
+        "longitude": -118.192778,
         "layouts": [
             {
                 "layoutId": "long-beach-1",
@@ -673,27 +599,23 @@
     },
     {
         "id": "lusail",
-        "name": "Lusail",
-        "fullName": "Lusail International Circuit",
-        "type": "RACE",
-        "placeName": "Lusail",
+        "name": "Lusail International Circuit",
         "countryId": "qatar",
-        "totalRacesHeld": 3,
+        "latitude": 25.49,
+        "longitude": 51.454167,
         "layouts": [
             {
                 "layoutId": "lusail-1",
-                "seasons": "2021,2023-2024"
+                "seasons": "2021,2023-2025"
             }
         ]
     },
     {
         "id": "magny-cours",
-        "name": "Magny-Cours",
-        "fullName": "Circuit de Nevers Magny-Cours",
-        "type": "RACE",
-        "placeName": "Nevers",
+        "name": "Circuit de Nevers Magny-Cours",
         "countryId": "france",
-        "totalRacesHeld": 18,
+        "latitude": 46.863242,
+        "longitude": 3.164228,
         "layouts": [
             {
                 "layoutId": "magny-cours-1",
@@ -711,12 +633,10 @@
     },
     {
         "id": "marina-bay",
-        "name": "Marina Bay",
-        "fullName": "Marina Bay Street Circuit",
-        "type": "STREET",
-        "placeName": "Singapore",
+        "name": "Marina Bay Street Circuit",
         "countryId": "singapore",
-        "totalRacesHeld": 15,
+        "latitude": 1.291531,
+        "longitude": 103.86385,
         "layouts": [
             {
                 "layoutId": "marina-bay-1",
@@ -732,18 +652,16 @@
             },
             {
                 "layoutId": "marina-bay-4",
-                "seasons": "2023-2024"
+                "seasons": "2023-2025"
             }
         ]
     },
     {
         "id": "melbourne",
-        "name": "Melbourne",
-        "fullName": "Melbourne Grand Prix Circuit",
-        "type": "STREET",
-        "placeName": "Melbourne",
+        "name": "Melbourne Grand Prix Circuit",
         "countryId": "australia",
-        "totalRacesHeld": 27,
+        "latitude": -37.849722,
+        "longitude": 144.968333,
         "layouts": [
             {
                 "layoutId": "melbourne-1",
@@ -751,18 +669,16 @@
             },
             {
                 "layoutId": "melbourne-2",
-                "seasons": "2022-2024"
+                "seasons": "2022-2025"
             }
         ]
     },
     {
         "id": "mexico-city",
-        "name": "Hermanos Rodríguez",
-        "fullName": "Autódromo Hermanos Rodríguez",
-        "type": "RACE",
-        "placeName": "Mexico City",
+        "name": "Autódromo Hermanos Rodríguez",
         "countryId": "mexico",
-        "totalRacesHeld": 24,
+        "latitude": 19.404197,
+        "longitude": -99.088747,
         "layouts": [
             {
                 "layoutId": "mexico-city-1",
@@ -774,33 +690,29 @@
             },
             {
                 "layoutId": "mexico-city-3",
-                "seasons": "2015-2019,2021-2024"
+                "seasons": "2015-2019,2021-2025"
             }
         ]
     },
     {
         "id": "miami",
-        "name": "Miami",
-        "fullName": "Miami International Autodrome",
-        "type": "STREET",
-        "placeName": "Miami Gardens",
+        "name": "Miami International Autodrome",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 3,
+        "latitude": 25.958056,
+        "longitude": -80.238889,
         "layouts": [
             {
                 "layoutId": "miami-1",
-                "seasons": "2022-2024"
+                "seasons": "2022-2025"
             }
         ]
     },
     {
         "id": "monaco",
-        "name": "Monaco",
-        "fullName": "Circuit de Monaco",
-        "type": "STREET",
-        "placeName": "Monte Carlo",
+        "name": "Circuit de Monaco",
         "countryId": "monaco",
-        "totalRacesHeld": 70,
+        "latitude": 43.734722,
+        "longitude": 7.420556,
         "layouts": [
             {
                 "layoutId": "monaco-1",
@@ -820,18 +732,16 @@
             },
             {
                 "layoutId": "monaco-5",
-                "seasons": "2003-2019,2021-2024"
+                "seasons": "2003-2019,2021-2025"
             }
         ]
     },
     {
         "id": "monsanto",
-        "name": "Monsanto",
-        "fullName": "Circuito de Monsanto",
-        "type": "STREET",
-        "placeName": "Lisbon",
+        "name": "Circuito de Monsanto",
         "countryId": "portugal",
-        "totalRacesHeld": 1,
+        "latitude": 38.719722,
+        "longitude": -9.203056,
         "layouts": [
             {
                 "layoutId": "monsanto-1",
@@ -841,12 +751,10 @@
     },
     {
         "id": "montjuic",
-        "name": "Montjuïc",
-        "fullName": "Circuito de Montjuïc",
-        "type": "STREET",
-        "placeName": "Barcelona",
+        "name": "Circuito de Montjuïc",
         "countryId": "spain",
-        "totalRacesHeld": 4,
+        "latitude": 41.366389,
+        "longitude": 2.151667,
         "layouts": [
             {
                 "layoutId": "montjuic-1",
@@ -856,12 +764,10 @@
     },
     {
         "id": "montreal",
-        "name": "Gilles Villeneuve",
-        "fullName": "Circuit Gilles Villeneuve",
-        "type": "STREET",
-        "placeName": "Montreal",
+        "name": "Circuit Gilles Villeneuve",
         "countryId": "canada",
-        "totalRacesHeld": 43,
+        "latitude": 45.500578,
+        "longitude": -73.522461,
         "layouts": [
             {
                 "layoutId": "montreal-1",
@@ -885,18 +791,16 @@
             },
             {
                 "layoutId": "montreal-6",
-                "seasons": "2002-2019,2022-2024"
+                "seasons": "2002-2019,2022-2025"
             }
         ]
     },
     {
         "id": "mont-tremblant",
-        "name": "Mont-Tremblant",
-        "fullName": "Circuit Mont-Tremblant",
-        "type": "RACE",
-        "placeName": "Mont-Tremblant",
+        "name": "Circuit Mont-Tremblant",
         "countryId": "canada",
-        "totalRacesHeld": 2,
+        "latitude": 46.187707,
+        "longitude": -74.609936,
         "layouts": [
             {
                 "layoutId": "mont-tremblant-1",
@@ -906,12 +810,10 @@
     },
     {
         "id": "monza",
-        "name": "Monza",
-        "fullName": "Autodromo Nazionale Monza",
-        "type": "RACE",
-        "placeName": "Monza",
+        "name": "Autodromo Nazionale Monza",
         "countryId": "italy",
-        "totalRacesHeld": 74,
+        "latitude": 45.620556,
+        "longitude": 9.289444,
         "layouts": [
             {
                 "layoutId": "monza-1",
@@ -935,18 +837,16 @@
             },
             {
                 "layoutId": "monza-6",
-                "seasons": "2000-2024"
+                "seasons": "2000-2025"
             }
         ]
     },
     {
         "id": "mosport",
-        "name": "Mosport",
-        "fullName": "Canadian Tire Motorsport Park",
-        "type": "RACE",
-        "placeName": "Bowmanville",
+        "name": "Canadian Tire Motorsport Park",
         "countryId": "canada",
-        "totalRacesHeld": 8,
+        "latitude": 44.05,
+        "longitude": -78.677778,
         "layouts": [
             {
                 "layoutId": "mosport-1",
@@ -956,12 +856,10 @@
     },
     {
         "id": "mugello",
-        "name": "Mugello",
-        "fullName": "Autodromo Internazionale del Mugello",
-        "type": "RACE",
-        "placeName": "Scarperia e San Piero",
+        "name": "Autodromo Internazionale del Mugello",
         "countryId": "italy",
-        "totalRacesHeld": 1,
+        "latitude": 43.9975,
+        "longitude": 11.371944,
         "layouts": [
             {
                 "layoutId": "mugello-1",
@@ -972,11 +870,9 @@
     {
         "id": "nivelles",
         "name": "Nivelles-Baulers",
-        "fullName": "Nivelles-Baulers",
-        "type": "RACE",
-        "placeName": "Nivelles",
         "countryId": "belgium",
-        "totalRacesHeld": 2,
+        "latitude": 50.621111,
+        "longitude": 4.326944,
         "layouts": [
             {
                 "layoutId": "nivelles-1",
@@ -987,11 +883,9 @@
     {
         "id": "nurburgring",
         "name": "Nürburgring",
-        "fullName": "Nürburgring",
-        "type": "RACE",
-        "placeName": "Nürburg",
         "countryId": "germany",
-        "totalRacesHeld": 41,
+        "latitude": 50.335556,
+        "longitude": 6.9475,
         "layouts": [
             {
                 "layoutId": "nurburgring-1",
@@ -1013,12 +907,10 @@
     },
     {
         "id": "paul-ricard",
-        "name": "Paul Ricard",
-        "fullName": "Circuit Paul Ricard",
-        "type": "RACE",
-        "placeName": "Le Castellet",
+        "name": "Circuit Paul Ricard",
         "countryId": "france",
-        "totalRacesHeld": 18,
+        "latitude": 43.250556,
+        "longitude": 5.791667,
         "layouts": [
             {
                 "layoutId": "paul-ricard-1",
@@ -1036,12 +928,10 @@
     },
     {
         "id": "pedralbes",
-        "name": "Pedralbes",
-        "fullName": "Pedralbes Circuit",
-        "type": "STREET",
-        "placeName": "Barcelona",
+        "name": "Pedralbes Circuit",
         "countryId": "spain",
-        "totalRacesHeld": 2,
+        "latitude": 41.390278,
+        "longitude": 2.116667,
         "layouts": [
             {
                 "layoutId": "pedralbes-1",
@@ -1051,12 +941,10 @@
     },
     {
         "id": "pescara",
-        "name": "Pescara",
-        "fullName": "Pescara Circuit",
-        "type": "ROAD",
-        "placeName": "Pescara",
+        "name": "Pescara Circuit",
         "countryId": "italy",
-        "totalRacesHeld": 1,
+        "latitude": 42.475,
+        "longitude": 14.150833,
         "layouts": [
             {
                 "layoutId": "pescara-1",
@@ -1066,12 +954,10 @@
     },
     {
         "id": "phoenix",
-        "name": "Phoenix",
-        "fullName": "Phoenix Street Circuit",
-        "type": "STREET",
-        "placeName": "Phoenix",
+        "name": "Phoenix Street Circuit",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 3,
+        "latitude": 33.447917,
+        "longitude": -112.074583,
         "layouts": [
             {
                 "layoutId": "phoenix-1",
@@ -1085,12 +971,10 @@
     },
     {
         "id": "portimao",
-        "name": "Portimão",
-        "fullName": "Algarve International Circuit",
-        "type": "RACE",
-        "placeName": "Portimão",
+        "name": "Algarve International Circuit",
         "countryId": "portugal",
-        "totalRacesHeld": 2,
+        "latitude": 37.221944,
+        "longitude": -8.629444,
         "layouts": [
             {
                 "layoutId": "portimao-1",
@@ -1100,12 +984,10 @@
     },
     {
         "id": "porto",
-        "name": "Boavista",
-        "fullName": "Circuito da Boavista",
-        "type": "STREET",
-        "placeName": "Porto",
+        "name": "Circuito da Boavista",
         "countryId": "portugal",
-        "totalRacesHeld": 2,
+        "latitude": 41.170472,
+        "longitude": -8.67325,
         "layouts": [
             {
                 "layoutId": "porto-1",
@@ -1116,11 +998,9 @@
     {
         "id": "reims",
         "name": "Reims-Gueux",
-        "fullName": "Reims-Gueux",
-        "type": "ROAD",
-        "placeName": "Reims",
         "countryId": "france",
-        "totalRacesHeld": 11,
+        "latitude": 49.254075,
+        "longitude": 3.930561,
         "layouts": [
             {
                 "layoutId": "reims-1",
@@ -1134,12 +1014,10 @@
     },
     {
         "id": "riverside",
-        "name": "Riverside",
-        "fullName": "Riverside International Raceway",
-        "type": "RACE",
-        "placeName": "Riverside",
+        "name": "Riverside International Raceway",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 1,
+        "latitude": 33.937,
+        "longitude": -117.272556,
         "layouts": [
             {
                 "layoutId": "riverside-1",
@@ -1150,11 +1028,9 @@
     {
         "id": "rouen",
         "name": "Rouen-Les-Essarts",
-        "fullName": "Rouen-Les-Essarts",
-        "type": "ROAD",
-        "placeName": "Rouen",
         "countryId": "france",
-        "totalRacesHeld": 5,
+        "latitude": 49.330639,
+        "longitude": 1.004583,
         "layouts": [
             {
                 "layoutId": "rouen-1",
@@ -1168,12 +1044,10 @@
     },
     {
         "id": "sebring",
-        "name": "Sebring",
-        "fullName": "Sebring International Raceway",
-        "type": "ROAD",
-        "placeName": "Sebring",
+        "name": "Sebring International Raceway",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 1,
+        "latitude": 27.454741,
+        "longitude": -81.348267,
         "layouts": [
             {
                 "layoutId": "sebring-1",
@@ -1183,12 +1057,10 @@
     },
     {
         "id": "sepang",
-        "name": "Sepang",
-        "fullName": "Sepang International Circuit",
-        "type": "RACE",
-        "placeName": "Sepang",
+        "name": "Sepang International Circuit",
         "countryId": "malaysia",
-        "totalRacesHeld": 19,
+        "latitude": 2.760556,
+        "longitude": 101.7375,
         "layouts": [
             {
                 "layoutId": "sepang-1",
@@ -1198,27 +1070,23 @@
     },
     {
         "id": "shanghai",
-        "name": "Shanghai",
-        "fullName": "Shanghai International Circuit",
-        "type": "RACE",
-        "placeName": "Shanghai",
+        "name": "Shanghai International Circuit",
         "countryId": "china",
-        "totalRacesHeld": 17,
+        "latitude": 31.338889,
+        "longitude": 121.219722,
         "layouts": [
             {
                 "layoutId": "shanghai-1",
-                "seasons": "2004-2019,2024"
+                "seasons": "2004-2019,2025"
             }
         ]
     },
     {
         "id": "silverstone",
-        "name": "Silverstone",
-        "fullName": "Silverstone Circuit",
-        "type": "RACE",
-        "placeName": "Silverstone",
+        "name": "Silverstone Circuit",
         "countryId": "united-kingdom",
-        "totalRacesHeld": 59,
+        "latitude": 52.078611,
+        "longitude": -1.016944,
         "layouts": [
             {
                 "layoutId": "silverstone-1",
@@ -1250,18 +1118,16 @@
             },
             {
                 "layoutId": "silverstone-8",
-                "seasons": "2010-2024"
+                "seasons": "2010-2025"
             }
         ]
     },
     {
         "id": "sochi",
-        "name": "Sochi",
-        "fullName": "Sochi Autodrom",
-        "type": "ROAD",
-        "placeName": "Sochi",
+        "name": "Sochi Autodrom",
         "countryId": "russia",
-        "totalRacesHeld": 8,
+        "latitude": 43.410278,
+        "longitude": 39.968271,
         "layouts": [
             {
                 "layoutId": "sochi-1",
@@ -1271,12 +1137,10 @@
     },
     {
         "id": "spa-francorchamps",
-        "name": "Spa-Francorchamps",
-        "fullName": "Circuit de Spa-Francorchamps",
-        "type": "RACE",
-        "placeName": "Spa",
+        "name": "Circuit de Spa-Francorchamps",
         "countryId": "belgium",
-        "totalRacesHeld": 57,
+        "latitude": 50.437222,
+        "longitude": 5.971389,
         "layouts": [
             {
                 "layoutId": "spa-francorchamps-1",
@@ -1292,18 +1156,16 @@
             },
             {
                 "layoutId": "spa-francorchamps-4",
-                "seasons": "2007-2024"
+                "seasons": "2007-2025"
             }
         ]
     },
     {
         "id": "spielberg",
         "name": "Red Bull Ring",
-        "fullName": "Red Bull Ring",
-        "type": "RACE",
-        "placeName": "Spielberg",
         "countryId": "austria",
-        "totalRacesHeld": 38,
+        "latitude": 47.219722,
+        "longitude": 14.764722,
         "layouts": [
             {
                 "layoutId": "spielberg-1",
@@ -1315,18 +1177,16 @@
             },
             {
                 "layoutId": "spielberg-3",
-                "seasons": "1997-2003,2014-2024"
+                "seasons": "1997-2003,2014-2025"
             }
         ]
     },
     {
         "id": "suzuka",
-        "name": "Suzuka",
-        "fullName": "Suzuka Circuit",
-        "type": "RACE",
-        "placeName": "Suzuka",
+        "name": "Suzuka Circuit",
         "countryId": "japan",
-        "totalRacesHeld": 34,
+        "latitude": 34.843056,
+        "longitude": 136.540556,
         "layouts": [
             {
                 "layoutId": "suzuka-1",
@@ -1334,18 +1194,16 @@
             },
             {
                 "layoutId": "suzuka-2",
-                "seasons": "2003-2006,2009-2019,2022-2024"
+                "seasons": "2003-2006,2009-2019,2022-2025"
             }
         ]
     },
     {
         "id": "valencia",
-        "name": "Valencia",
-        "fullName": "Valencia Street Circuit",
-        "type": "STREET",
-        "placeName": "Valencia",
+        "name": "Valencia Street Circuit",
         "countryId": "spain",
-        "totalRacesHeld": 5,
+        "latitude": 39.458778,
+        "longitude": -0.325556,
         "layouts": [
             {
                 "layoutId": "valencia-1",
@@ -1355,12 +1213,10 @@
     },
     {
         "id": "watkins-glen",
-        "name": "Watkins Glen",
-        "fullName": "Watkins Glen International",
-        "type": "RACE",
-        "placeName": "Watkins Glen",
+        "name": "Watkins Glen International",
         "countryId": "united-states-of-america",
-        "totalRacesHeld": 20,
+        "latitude": 42.336944,
+        "longitude": -76.927222,
         "layouts": [
             {
                 "layoutId": "watkins-glen-1",
@@ -1378,12 +1234,10 @@
     },
     {
         "id": "yas-marina",
-        "name": "Yas Marina",
-        "fullName": "Yas Marina Circuit",
-        "type": "RACE",
-        "placeName": "Abu Dhabi",
+        "name": "Yas Marina Circuit",
         "countryId": "united-arab-emirates",
-        "totalRacesHeld": 16,
+        "latitude": 24.467222,
+        "longitude": 54.603056,
         "layouts": [
             {
                 "layoutId": "yas-marina-1",
@@ -1391,18 +1245,16 @@
             },
             {
                 "layoutId": "yas-marina-2",
-                "seasons": "2021-2024"
+                "seasons": "2021-2025"
             }
         ]
     },
     {
         "id": "yeongam",
-        "name": "Korea",
-        "fullName": "Korea International Circuit",
-        "type": "RACE",
-        "placeName": "Yeongam",
+        "name": "Korea International Circuit",
         "countryId": "south-korea",
-        "totalRacesHeld": 4,
+        "latitude": 34.733333,
+        "longitude": 126.416667,
         "layouts": [
             {
                 "layoutId": "yeongam-1",
@@ -1412,12 +1264,10 @@
     },
     {
         "id": "zandvoort",
-        "name": "Zandvoort",
-        "fullName": "Circuit Park Zandvoort",
-        "type": "RACE",
-        "placeName": "Zandvoort",
+        "name": "Circuit Park Zandvoort",
         "countryId": "netherlands",
-        "totalRacesHeld": 34,
+        "latitude": 52.388819,
+        "longitude": 4.540922,
         "layouts": [
             {
                 "layoutId": "zandvoort-1",
@@ -1437,18 +1287,16 @@
             },
             {
                 "layoutId": "zandvoort",
-                "seasons": "2021-2024"
+                "seasons": "2021-2025"
             }
         ]
     },
     {
         "id": "zeltweg",
         "name": "Zeltweg",
-        "fullName": "Zeltweg",
-        "type": "ROAD",
-        "placeName": "Zeltweg",
         "countryId": "austria",
-        "totalRacesHeld": 1,
+        "latitude": 47.202222,
+        "longitude": 14.742222,
         "layouts": [
             {
                 "layoutId": "zeltweg-1",
@@ -1458,12 +1306,10 @@
     },
     {
         "id": "zolder",
-        "name": "Zolder",
-        "fullName": "Circuit Zolder",
-        "type": "RACE",
-        "placeName": "Heusden-Zolder",
+        "name": "Circuit Zolder",
         "countryId": "belgium",
-        "totalRacesHeld": 10,
+        "latitude": 50.988889,
+        "longitude": 5.255556,
         "layouts": [
             {
                 "layoutId": "zolder-1",
