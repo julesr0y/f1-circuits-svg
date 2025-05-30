@@ -4,7 +4,7 @@ This repository contains the layouts and their evolutions of all the circuits th
 ⚠️ Evolutions only concern the layout of circuits, not the pitlane evolutions, track resurfacing, track enlargement etc...  
 💽 All layouts are in SVG format.  
 
-[PitLane Insider](https://pitlaneinsider.fr/) uses this repository to display circuit layouts.
+[PitLane Insider](https://pitlaneinsider.alwaysdata.net/) uses this repository to display circuit layouts.
 
 ### 🛣️ Included circuits : 
 <details> 
