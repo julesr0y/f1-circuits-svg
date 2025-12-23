@@ -8,7 +8,7 @@ This repository contains the layouts and their evolutions of all the circuits th
 
 ### 🛣️ Included circuits : 
 <details> 
-  <summary>77 circuits :</summary>
+  <summary>78 circuits :</summary>
   • Adelaide Street Circuit (Adelaide) <br>
   • Ain-Diab Circuit (Casablanca) <br>
   • Aintree Motor Racing Circuit (Aintree) <br>
@@ -44,6 +44,7 @@ This repository contains the layouts and their evolutions of all the circuits th
   • Circuit of the Americas (Austin) <br>
   • Circuito da Boavista (Porto) <br>
   • Circuito de Jerez (Jerez de la Frontera) <br>
+  • Circuito de Madring (Madrid) <br>
   • Circuito de Monsanto (Lisbon) <br>
   • Circuito de Montjuïc (Barcelona) <br>
   • Circuito del Jarama (Madrid) <br>
@@ -137,7 +138,7 @@ If needed, you can also customise width and height (default 500px x 500px) by mo
 - [Motorsport Magazine](https://www.motorsportmagazine.com/database/circuits/)
 - [F1DB](https://github.com/f1db/f1db)
 
-*Last update: 03/2025*
+*Last update: 12/2025*
 
 ```
 ________ _______ __  __       _________        ______            
