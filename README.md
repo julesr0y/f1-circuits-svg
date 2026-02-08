@@ -124,12 +124,24 @@ You can find 4 styles of layouts in this repository (backgrounds are normally tr
 By default, stroke width is set to 20px for outline, and 5px for inside outline. You can easily customize these files for your own use by modifying `stroke` and `stroke-width` values in the style attribute :
 
 ```svg
-<svg width="500" height="500" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-    <path style="fill: none; stroke: custom_color; stroke-width: custom_width; stroke-linejoin: round; stroke-dasharray: none; stroke-opacity: 1;" d="M223.097 46.593c15.65-1.332 25.903-1.868..." />
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500" height="500">
+  <path d="M461.087 263.524 197.304 38.836c-4.69-3.995..." style="fill:none;stroke:#000;stroke-width:20;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"/>
 </svg>
 ```
 
 If needed, you can also customise width and height (default 500px x 500px) by modifying `width` and `height` attributes.
+
+### 💽 Formatting files :
+
+All SVG files are optimized with [SVGO](https://github.com/svg/svgo), with a custom configuration `svgo.config.mjs` to avoid removing important attributes (viewBox, xmlns) and to keep the content of "d" attribute as compact as possible (without newlines or unnecessary spaces).
+
+Here is an example of using it with the terminal :
+
+```bash
+npm install
+cd circuits
+npx svgo -f . -r
+```
 
 ### 🔎 Sources :
 
@@ -138,7 +150,6 @@ If needed, you can also customise width and height (default 500px x 500px) by mo
 - [Motorsport Magazine](https://www.motorsportmagazine.com/database/circuits/)
 - [F1DB](https://github.com/f1db/f1db)
 
-*Last update: 12/2025*
 
 ```
 ________ _______ __  __       _________        ______            
