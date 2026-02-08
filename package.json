@@ -1,0 +1,23 @@
+{
+  "name": "f1-circuits-svg",
+  "version": "2026.2.0",
+  "description": "All Formula 1 circuit layouts and their evolutions from 1950 to nowadays.",
+  "homepage": "https://github.com/julesr0y/f1-circuits-svg#readme",
+  "bugs": {
+    "url": "https://github.com/julesr0y/f1-circuits-svg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesr0y/f1-circuits-svg.git"
+  },
+  "license": "MIT",
+  "author": "julesr0y",
+  "type": "commonjs",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "svgo": "^4.0.0"
+  }
+}
