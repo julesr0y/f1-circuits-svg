@@ -116,8 +116,11 @@ You can find 4 styles of layouts in this repository (backgrounds are normally tr
 &nbsp;• each layout has his circuit id, followed by -number (ex: monza-1 is the first ever used layout, monza-2 the second...)  
 &nbsp;• each layout has the seasons when it was used (ex: "1958,1960-1962" indicates that the layout was used in 1958, 1960, 1961 and 1962)
 
-`circuits` folder contains :
-- 4 style folders (black, black-outline, white, white-outline), each containing all circuits layouts in SVG format
+- `circuits` folder contains :
+  - `minimal` folder containing all circuits layouts with a minimal style
+  - `detailed` folder containing all circuits layouts with more details (track direction, starting line)  
+    
+  &nbsp;There are 4 styles in all of the folders above (black, black-outline, white, white-outline)
 
 ### 🖌️ Customisation :
 
