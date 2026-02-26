@@ -846,14 +846,18 @@
             },
             {
                 "layoutId": "monza-4",
-                "seasons": "1972-1975"
+                "seasons": "1972-1973"
             },
             {
                 "layoutId": "monza-5",
-                "seasons": "1976-1979,1981-1999"
+                "seasons": "1974-1975"
             },
             {
                 "layoutId": "monza-6",
+                "seasons": "1976-1979,1981-1999"
+            },
+            {
+                "layoutId": "monza-7",
                 "seasons": "2000-2026"
             }
         ]
