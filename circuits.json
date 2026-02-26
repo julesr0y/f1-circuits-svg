@@ -729,22 +729,26 @@
         "layouts": [
             {
                 "layoutId": "monaco-1",
-                "seasons": "1950,1955-1972"
+                "seasons": "1950"
             },
             {
                 "layoutId": "monaco-2",
-                "seasons": "1973-1975"
+                "seasons": "1955-1972"
             },
             {
                 "layoutId": "monaco-3",
-                "seasons": "1976-1985"
+                "seasons": "1973-1975"
             },
             {
                 "layoutId": "monaco-4",
-                "seasons": "1986-2002"
+                "seasons": "1976-1985"
             },
             {
                 "layoutId": "monaco-5",
+                "seasons": "1986-2002"
+            },
+            {
+                "layoutId": "monaco-6",
                 "seasons": "2003-2019,2021-2026"
             }
         ]
@@ -788,11 +792,11 @@
             },
             {
                 "layoutId": "montreal-2",
-                "seasons": "1979-1986,1988-1990"
+                "seasons": "1979-1986"
             },
             {
                 "layoutId": "montreal-3",
-                "seasons": "1991-1993"
+                "seasons": "1988-1993"
             },
             {
                 "layoutId": "montreal-4",
@@ -842,14 +846,18 @@
             },
             {
                 "layoutId": "monza-4",
-                "seasons": "1972-1975"
+                "seasons": "1972-1973"
             },
             {
                 "layoutId": "monza-5",
-                "seasons": "1976-1979,1981-1999"
+                "seasons": "1974-1975"
             },
             {
                 "layoutId": "monza-6",
+                "seasons": "1976-1979,1981-1999"
+            },
+            {
+                "layoutId": "monza-7",
                 "seasons": "2000-2026"
             }
         ]
