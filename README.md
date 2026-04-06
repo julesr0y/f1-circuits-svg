@@ -92,6 +92,8 @@ This repository contains the layouts and their evolutions of all the circuits th
 ### 🎨 Style :
 
 You can find 4 styles of layouts in this repository (backgrounds are normally transparent, but here they are black or white for better visibility) :
+
+**Minimal style** : only the track layout, without any details
 - Black :
   
   <img src="readme/kyalami-2.svg" alt="Kyalami" width="150" height="150">
@@ -108,6 +110,11 @@ You can find 4 styles of layouts in this repository (backgrounds are normally tr
   
   <img src="readme/monza-2.svg" alt="Monza" width="150" height="150">
   
+**Detailed style** : the track layout with more details (starting line, track direction) - only for 2026 layouts for now, but I will add more in the future
+- Example with the black outline style : 
+
+  <img src="readme/catalunya-6.svg" alt="Catalunya" width="150" height="150">
+
 ### 📁 Structure :
 
 `root` folder contains :
