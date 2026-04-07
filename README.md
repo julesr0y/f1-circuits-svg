@@ -111,7 +111,7 @@ You can find 4 styles of layouts in this repository (backgrounds are normally tr
   <img src="readme/monza-2.svg" alt="Monza" width="150" height="150">
   
 **Detailed style** : the track layout with more details (starting line, track direction) - only for 2026 layouts for now, but I will add more in the future
-- Example with the black outline style : 
+- Example with the white outline style : 
 
   <img src="readme/catalunya-6.svg" alt="Catalunya" width="150" height="150">
 
