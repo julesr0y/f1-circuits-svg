@@ -99,7 +99,7 @@
         "layouts": [
             {
                 "layoutId": "bahrain-1",
-                "seasons": "2004-2009,2011-2026"
+                "seasons": "2004-2009,2011-2025"
             },
             {
                 "layoutId": "bahrain-2",
@@ -525,7 +525,7 @@
         "layouts": [
             {
                 "layoutId": "jeddah-1",
-                "seasons": "2021-2026"
+                "seasons": "2021-2025"
             }
         ]
     },
