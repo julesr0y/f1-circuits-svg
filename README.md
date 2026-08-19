@@ -129,7 +129,7 @@ You can find 4 styles of layouts in this repository (backgrounds are normally tr
     
   &nbsp;There are 4 styles in all of the folders above (black, black-outline, white, white-outline)
 
-### 🖌️ Customisation :
+### 🖌️ Manual customisation :
 
 By default, stroke width is set to 20px for outline, and 5px for inside outline. You can easily customize these files for your own use by modifying `stroke` and `stroke-width` values in the style attribute :
 
@@ -140,6 +140,30 @@ By default, stroke width is set to 20px for outline, and 5px for inside outline.
 ```
 
 If needed, you can also customise width and height (default 500px x 500px) by modifying `width` and `height` attributes.
+
+### 🔧 Automatic customisation using scripts :
+
+**Note** : The following scripts require **Node.js** (v24 or higher) to be installed on your system.
+
+There is currently only one script to automatically customize the SVG files (more to come soon...) :  
+
+`personalize-f1-orientation.js` : rotates the SVG files to have the same orientation as the official Formula 1 website. The script applies only to layouts that have the `f1-orientation` field in `circuits.json` and uses the specified integer as a degree value. To prevent the layout from exceeding the set dimensions, the size is fixed at 600px x 600px during rotation.  
+
+To use this script, run the command (for detailed AND minimal styles) :
+```bash
+npm run personalize:f1-orientation
+```
+
+For only one style, just specify it:
+```bash
+npm run personalize:f1-orientation detailed
+```
+  
+```bash
+npm run personalize:f1-orientation minimal
+```
+
+New files will be added to the `circuits/f1-orientation` folder, in the `detailed` and `minimal` sub-folders, with the same styles.
 
 ### 💽 Formatting files :
 

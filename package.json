@@ -14,6 +14,9 @@
   "author": "ROY Jules (julesr0y)",
   "type": "commonjs",
   "main": "",
+  "scripts": {
+    "personalize:f1-orientation": "node scripts/personalize-f1-orientation.js"
+  },
   "dependencies": {
     "svgo": "^4.0.0"
   }

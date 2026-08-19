@@ -73,7 +73,8 @@
         "layouts": [
             {
                 "layoutId": "austin-1",
-                "seasons": "2012-2019,2021-2026"
+                "seasons": "2012-2019,2021-2026",
+                "f1-orientation": 30
             }
         ]
     },
@@ -121,7 +122,8 @@
         "layouts": [
             {
                 "layoutId": "baku-1",
-                "seasons": "2016-2019,2021-2026"
+                "seasons": "2016-2019,2021-2026",
+                "f1-orientation": 73
             }
         ]
     },
@@ -248,7 +250,8 @@
             },
             {
                 "layoutId": "catalunya-6",
-                "seasons": "2023-2026"
+                "seasons": "2023-2026",
+                "f1-orientation": 32
             }
         ]
     },
@@ -414,7 +417,8 @@
             },
             {
                 "layoutId": "hungaroring-3",
-                "seasons": "2003-2026"
+                "seasons": "2003-2026",
+                "f1-orientation": 52
             }
         ]
     },
@@ -469,7 +473,8 @@
             },
             {
                 "layoutId": "interlagos-2",
-                "seasons": "1990-2026"
+                "seasons": "1990-2026",
+                "f1-orientation": 90
             }
         ]
     },
@@ -572,7 +577,8 @@
         "layouts": [
             {
                 "layoutId": "las-vegas-1",
-                "seasons": "2023-2026"
+                "seasons": "2023-2026",
+                "f1-orientation": 0
             }
         ]
     },
@@ -606,7 +612,8 @@
         "layouts": [
             {
                 "layoutId": "lusail-1",
-                "seasons": "2021,2023-2026"
+                "seasons": "2021,2023-2026",
+                "f1-orientation": 0
             }
         ]
     },
@@ -619,7 +626,8 @@
         "layouts": [
             {
                 "layoutId": "madring-1",
-                "seasons": "2026"
+                "seasons": "2026",
+                "f1-orientation": 0
             }
         ]
     },
@@ -665,7 +673,8 @@
             },
             {
                 "layoutId": "marina-bay-4",
-                "seasons": "2023-2026"
+                "seasons": "2023-2026",
+                "f1-orientation": 0
             }
         ]
     },
@@ -682,7 +691,8 @@
             },
             {
                 "layoutId": "melbourne-2",
-                "seasons": "2022-2026"
+                "seasons": "2022-2026",
+                "f1-orientation": -46
             }
         ]
     },
@@ -703,7 +713,8 @@
             },
             {
                 "layoutId": "mexico-city-3",
-                "seasons": "2015-2019,2021-2026"
+                "seasons": "2015-2019,2021-2026",
+                "f1-orientation": -8
             }
         ]
     },
@@ -716,7 +727,8 @@
         "layouts": [
             {
                 "layoutId": "miami-1",
-                "seasons": "2022-2026"
+                "seasons": "2022-2026",
+                "f1-orientation": -18
             }
         ]
     },
@@ -749,7 +761,8 @@
             },
             {
                 "layoutId": "monaco-6",
-                "seasons": "2003-2019,2021-2026"
+                "seasons": "2003-2019,2021-2026",
+                "f1-orientation": 45
             }
         ]
     },
@@ -808,7 +821,8 @@
             },
             {
                 "layoutId": "montreal-6",
-                "seasons": "2002-2019,2022-2026"
+                "seasons": "2002-2019,2022-2026",
+                "f1-orientation": -55
             }
         ]
     },
@@ -858,7 +872,8 @@
             },
             {
                 "layoutId": "monza-7",
-                "seasons": "2000-2026"
+                "seasons": "2000-2026",
+                "f1-orientation": -95
             }
         ]
     },
@@ -1085,7 +1100,8 @@
         "layouts": [
             {
                 "layoutId": "sepang-1",
-                "seasons": "1999-2017,2026"
+                "seasons": "1999-2017,2026",
+                "f1-orientation": 44
             }
         ]
     },
@@ -1098,7 +1114,8 @@
         "layouts": [
             {
                 "layoutId": "shanghai-1",
-                "seasons": "2004-2019,2024-2026"
+                "seasons": "2004-2019,2024-2026",
+                "f1-orientation": 24
             }
         ]
     },
@@ -1139,7 +1156,8 @@
             },
             {
                 "layoutId": "silverstone-8",
-                "seasons": "2010-2026"
+                "seasons": "2010-2026",
+                "f1-orientation": 90
             }
         ]
     },
@@ -1177,7 +1195,8 @@
             },
             {
                 "layoutId": "spa-francorchamps-4",
-                "seasons": "2007-2026"
+                "seasons": "2007-2026",
+                "f1-orientation": -100
             }
         ]
     },
@@ -1198,7 +1217,8 @@
             },
             {
                 "layoutId": "spielberg-3",
-                "seasons": "1997-2003,2014-2026"
+                "seasons": "1997-2003,2014-2026",
+                "f1-orientation": -31
             }
         ]
     },
@@ -1215,7 +1235,8 @@
             },
             {
                 "layoutId": "suzuka-2",
-                "seasons": "2003-2006,2009-2019,2022-2026"
+                "seasons": "2003-2006,2009-2019,2022-2026",
+                "f1-orientation": 0
             }
         ]
     },
@@ -1266,7 +1287,8 @@
             },
             {
                 "layoutId": "yas-marina-2",
-                "seasons": "2021-2026"
+                "seasons": "2021-2026",
+                "f1-orientation": 99
             }
         ]
     },
@@ -1308,7 +1330,8 @@
             },
             {
                 "layoutId": "zandvoort-5",
-                "seasons": "2021-2026"
+                "seasons": "2021-2026",
+                "f1-orientation": 0
             }
         ]
     },

@@ -3,6 +3,9 @@ node_modules/
 .vscode/
 
 # authorize only basic styles folders
+circuits/*
+!circuits/minimal/
+!circuits/detailed/
 circuits/detailed/*
 circuits/minimal/*
 !circuits/detailed/black/
