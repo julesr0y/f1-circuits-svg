@@ -1,2 +1,15 @@
 node_modules/
 .DS_Store
+.vscode/
+
+# authorize only basic styles folders
+circuits/detailed/*
+circuits/minimal/*
+!circuits/detailed/black/
+!circuits/detailed/black-outline/
+!circuits/detailed/white/
+!circuits/detailed/white-outline/
+!circuits/minimal/black/
+!circuits/minimal/black-outline/
+!circuits/minimal/white/
+!circuits/minimal/white-outline/
